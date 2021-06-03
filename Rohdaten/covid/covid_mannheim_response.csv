@@ -1,0 +1,1552 @@
+date;category;variable;value
+2020-01-01;response;C1_School closing;0
+2020-01-01;response;C4_Restrictions on gatherings;0
+2020-01-01;response;C6_Stay at home requirements;0
+2020-01-02;response;C1_School closing;0
+2020-01-02;response;C4_Restrictions on gatherings;0
+2020-01-02;response;C6_Stay at home requirements;0
+2020-01-03;response;C1_School closing;0
+2020-01-03;response;C4_Restrictions on gatherings;0
+2020-01-03;response;C6_Stay at home requirements;0
+2020-01-04;response;C1_School closing;0
+2020-01-04;response;C4_Restrictions on gatherings;0
+2020-01-04;response;C6_Stay at home requirements;0
+2020-01-05;response;C1_School closing;0
+2020-01-05;response;C4_Restrictions on gatherings;0
+2020-01-05;response;C6_Stay at home requirements;0
+2020-01-06;response;C1_School closing;0
+2020-01-06;response;C4_Restrictions on gatherings;0
+2020-01-06;response;C6_Stay at home requirements;0
+2020-01-07;response;C1_School closing;0
+2020-01-07;response;C4_Restrictions on gatherings;0
+2020-01-07;response;C6_Stay at home requirements;0
+2020-01-08;response;C1_School closing;0
+2020-01-08;response;C4_Restrictions on gatherings;0
+2020-01-08;response;C6_Stay at home requirements;0
+2020-01-09;response;C1_School closing;0
+2020-01-09;response;C4_Restrictions on gatherings;0
+2020-01-09;response;C6_Stay at home requirements;0
+2020-01-10;response;C1_School closing;0
+2020-01-10;response;C4_Restrictions on gatherings;0
+2020-01-10;response;C6_Stay at home requirements;0
+2020-01-11;response;C1_School closing;0
+2020-01-11;response;C4_Restrictions on gatherings;0
+2020-01-11;response;C6_Stay at home requirements;0
+2020-01-12;response;C1_School closing;0
+2020-01-12;response;C4_Restrictions on gatherings;0
+2020-01-12;response;C6_Stay at home requirements;0
+2020-01-13;response;C1_School closing;0
+2020-01-13;response;C4_Restrictions on gatherings;0
+2020-01-13;response;C6_Stay at home requirements;0
+2020-01-14;response;C1_School closing;0
+2020-01-14;response;C4_Restrictions on gatherings;0
+2020-01-14;response;C6_Stay at home requirements;0
+2020-01-15;response;C1_School closing;0
+2020-01-15;response;C4_Restrictions on gatherings;0
+2020-01-15;response;C6_Stay at home requirements;0
+2020-01-16;response;C1_School closing;0
+2020-01-16;response;C4_Restrictions on gatherings;0
+2020-01-16;response;C6_Stay at home requirements;0
+2020-01-17;response;C1_School closing;0
+2020-01-17;response;C4_Restrictions on gatherings;0
+2020-01-17;response;C6_Stay at home requirements;0
+2020-01-18;response;C1_School closing;0
+2020-01-18;response;C4_Restrictions on gatherings;0
+2020-01-18;response;C6_Stay at home requirements;0
+2020-01-19;response;C1_School closing;0
+2020-01-19;response;C4_Restrictions on gatherings;0
+2020-01-19;response;C6_Stay at home requirements;0
+2020-01-20;response;C1_School closing;0
+2020-01-20;response;C4_Restrictions on gatherings;0
+2020-01-20;response;C6_Stay at home requirements;0
+2020-01-21;response;C1_School closing;0
+2020-01-21;response;C4_Restrictions on gatherings;0
+2020-01-21;response;C6_Stay at home requirements;0
+2020-01-22;response;C1_School closing;0
+2020-01-22;response;C4_Restrictions on gatherings;0
+2020-01-22;response;C6_Stay at home requirements;0
+2020-01-23;response;C1_School closing;0
+2020-01-23;response;C4_Restrictions on gatherings;0
+2020-01-23;response;C6_Stay at home requirements;0
+2020-01-24;response;C1_School closing;0
+2020-01-24;response;C4_Restrictions on gatherings;0
+2020-01-24;response;C6_Stay at home requirements;0
+2020-01-25;response;C1_School closing;0
+2020-01-25;response;C4_Restrictions on gatherings;0
+2020-01-25;response;C6_Stay at home requirements;0
+2020-01-26;response;C1_School closing;0
+2020-01-26;response;C4_Restrictions on gatherings;0
+2020-01-26;response;C6_Stay at home requirements;0
+2020-01-27;response;C1_School closing;0
+2020-01-27;response;C4_Restrictions on gatherings;0
+2020-01-27;response;C6_Stay at home requirements;0
+2020-01-28;response;C1_School closing;0
+2020-01-28;response;C4_Restrictions on gatherings;0
+2020-01-28;response;C6_Stay at home requirements;0
+2020-01-29;response;C1_School closing;0
+2020-01-29;response;C4_Restrictions on gatherings;0
+2020-01-29;response;C6_Stay at home requirements;0
+2020-01-30;response;C1_School closing;0
+2020-01-30;response;C4_Restrictions on gatherings;0
+2020-01-30;response;C6_Stay at home requirements;0
+2020-01-31;response;C1_School closing;0
+2020-01-31;response;C4_Restrictions on gatherings;0
+2020-01-31;response;C6_Stay at home requirements;0
+2020-02-01;response;C1_School closing;0
+2020-02-01;response;C4_Restrictions on gatherings;0
+2020-02-01;response;C6_Stay at home requirements;0
+2020-02-02;response;C1_School closing;0
+2020-02-02;response;C4_Restrictions on gatherings;0
+2020-02-02;response;C6_Stay at home requirements;0
+2020-02-03;response;C1_School closing;0
+2020-02-03;response;C4_Restrictions on gatherings;0
+2020-02-03;response;C6_Stay at home requirements;0
+2020-02-04;response;C1_School closing;0
+2020-02-04;response;C4_Restrictions on gatherings;0
+2020-02-04;response;C6_Stay at home requirements;0
+2020-02-05;response;C1_School closing;0
+2020-02-05;response;C4_Restrictions on gatherings;0
+2020-02-05;response;C6_Stay at home requirements;0
+2020-02-06;response;C1_School closing;0
+2020-02-06;response;C4_Restrictions on gatherings;0
+2020-02-06;response;C6_Stay at home requirements;0
+2020-02-07;response;C1_School closing;0
+2020-02-07;response;C4_Restrictions on gatherings;0
+2020-02-07;response;C6_Stay at home requirements;0
+2020-02-08;response;C1_School closing;0
+2020-02-08;response;C4_Restrictions on gatherings;0
+2020-02-08;response;C6_Stay at home requirements;0
+2020-02-09;response;C1_School closing;0
+2020-02-09;response;C4_Restrictions on gatherings;0
+2020-02-09;response;C6_Stay at home requirements;0
+2020-02-10;response;C1_School closing;0
+2020-02-10;response;C4_Restrictions on gatherings;0
+2020-02-10;response;C6_Stay at home requirements;0
+2020-02-11;response;C1_School closing;0
+2020-02-11;response;C4_Restrictions on gatherings;0
+2020-02-11;response;C6_Stay at home requirements;0
+2020-02-12;response;C1_School closing;0
+2020-02-12;response;C4_Restrictions on gatherings;0
+2020-02-12;response;C6_Stay at home requirements;0
+2020-02-13;response;C1_School closing;0
+2020-02-13;response;C4_Restrictions on gatherings;0
+2020-02-13;response;C6_Stay at home requirements;0
+2020-02-14;response;C1_School closing;0
+2020-02-14;response;C4_Restrictions on gatherings;0
+2020-02-14;response;C6_Stay at home requirements;0
+2020-02-15;response;C1_School closing;0
+2020-02-15;response;C4_Restrictions on gatherings;0
+2020-02-15;response;C6_Stay at home requirements;0
+2020-02-16;response;C1_School closing;0
+2020-02-16;response;C4_Restrictions on gatherings;0
+2020-02-16;response;C6_Stay at home requirements;0
+2020-02-17;response;C1_School closing;0
+2020-02-17;response;C4_Restrictions on gatherings;0
+2020-02-17;response;C6_Stay at home requirements;0
+2020-02-18;response;C1_School closing;0
+2020-02-18;response;C4_Restrictions on gatherings;0
+2020-02-18;response;C6_Stay at home requirements;0
+2020-02-19;response;C1_School closing;0
+2020-02-19;response;C4_Restrictions on gatherings;0
+2020-02-19;response;C6_Stay at home requirements;0
+2020-02-20;response;C1_School closing;0
+2020-02-20;response;C4_Restrictions on gatherings;0
+2020-02-20;response;C6_Stay at home requirements;0
+2020-02-21;response;C1_School closing;0
+2020-02-21;response;C4_Restrictions on gatherings;0
+2020-02-21;response;C6_Stay at home requirements;0
+2020-02-22;response;C1_School closing;0
+2020-02-22;response;C4_Restrictions on gatherings;0
+2020-02-22;response;C6_Stay at home requirements;0
+2020-02-23;response;C1_School closing;0
+2020-02-23;response;C4_Restrictions on gatherings;0
+2020-02-23;response;C6_Stay at home requirements;0
+2020-02-24;response;C1_School closing;0
+2020-02-24;response;C4_Restrictions on gatherings;0
+2020-02-24;response;C6_Stay at home requirements;0
+2020-02-25;response;C1_School closing;0
+2020-02-25;response;C4_Restrictions on gatherings;0
+2020-02-25;response;C6_Stay at home requirements;0
+2020-02-26;response;C1_School closing;2
+2020-02-26;response;C4_Restrictions on gatherings;0
+2020-02-26;response;C6_Stay at home requirements;0
+2020-02-27;response;C1_School closing;2
+2020-02-27;response;C4_Restrictions on gatherings;0
+2020-02-27;response;C6_Stay at home requirements;0
+2020-02-28;response;C1_School closing;2
+2020-02-28;response;C4_Restrictions on gatherings;0
+2020-02-28;response;C6_Stay at home requirements;0
+2020-02-29;response;C1_School closing;2
+2020-02-29;response;C4_Restrictions on gatherings;0
+2020-02-29;response;C6_Stay at home requirements;0
+2020-03-01;response;C1_School closing;2
+2020-03-01;response;C4_Restrictions on gatherings;0
+2020-03-01;response;C6_Stay at home requirements;0
+2020-03-02;response;C1_School closing;2
+2020-03-02;response;C4_Restrictions on gatherings;0
+2020-03-02;response;C6_Stay at home requirements;0
+2020-03-03;response;C1_School closing;2
+2020-03-03;response;C4_Restrictions on gatherings;0
+2020-03-03;response;C6_Stay at home requirements;0
+2020-03-04;response;C1_School closing;2
+2020-03-04;response;C4_Restrictions on gatherings;0
+2020-03-04;response;C6_Stay at home requirements;0
+2020-03-05;response;C1_School closing;2
+2020-03-05;response;C4_Restrictions on gatherings;0
+2020-03-05;response;C6_Stay at home requirements;0
+2020-03-06;response;C1_School closing;2
+2020-03-06;response;C4_Restrictions on gatherings;0
+2020-03-06;response;C6_Stay at home requirements;0
+2020-03-07;response;C1_School closing;2
+2020-03-07;response;C4_Restrictions on gatherings;0
+2020-03-07;response;C6_Stay at home requirements;0
+2020-03-08;response;C1_School closing;2
+2020-03-08;response;C4_Restrictions on gatherings;0
+2020-03-08;response;C6_Stay at home requirements;0
+2020-03-09;response;C1_School closing;2
+2020-03-09;response;C4_Restrictions on gatherings;0
+2020-03-09;response;C6_Stay at home requirements;1
+2020-03-10;response;C1_School closing;2
+2020-03-10;response;C4_Restrictions on gatherings;1
+2020-03-10;response;C6_Stay at home requirements;1
+2020-03-11;response;C1_School closing;2
+2020-03-11;response;C4_Restrictions on gatherings;1
+2020-03-11;response;C6_Stay at home requirements;1
+2020-03-12;response;C1_School closing;2
+2020-03-12;response;C4_Restrictions on gatherings;1
+2020-03-12;response;C6_Stay at home requirements;1
+2020-03-13;response;C1_School closing;2
+2020-03-13;response;C4_Restrictions on gatherings;1
+2020-03-13;response;C6_Stay at home requirements;1
+2020-03-14;response;C1_School closing;2
+2020-03-14;response;C4_Restrictions on gatherings;1
+2020-03-14;response;C6_Stay at home requirements;1
+2020-03-15;response;C1_School closing;2
+2020-03-15;response;C4_Restrictions on gatherings;1
+2020-03-15;response;C6_Stay at home requirements;1
+2020-03-16;response;C1_School closing;3
+2020-03-16;response;C4_Restrictions on gatherings;1
+2020-03-16;response;C6_Stay at home requirements;1
+2020-03-17;response;C1_School closing;3
+2020-03-17;response;C4_Restrictions on gatherings;1
+2020-03-17;response;C6_Stay at home requirements;1
+2020-03-18;response;C1_School closing;3
+2020-03-18;response;C4_Restrictions on gatherings;1
+2020-03-18;response;C6_Stay at home requirements;1
+2020-03-19;response;C1_School closing;3
+2020-03-19;response;C4_Restrictions on gatherings;1
+2020-03-19;response;C6_Stay at home requirements;1
+2020-03-20;response;C1_School closing;3
+2020-03-20;response;C4_Restrictions on gatherings;1
+2020-03-20;response;C6_Stay at home requirements;1
+2020-03-21;response;C1_School closing;3
+2020-03-21;response;C4_Restrictions on gatherings;4
+2020-03-21;response;C6_Stay at home requirements;2
+2020-03-22;response;C1_School closing;3
+2020-03-22;response;C4_Restrictions on gatherings;4
+2020-03-22;response;C6_Stay at home requirements;2
+2020-03-23;response;C1_School closing;3
+2020-03-23;response;C4_Restrictions on gatherings;4
+2020-03-23;response;C6_Stay at home requirements;2
+2020-03-24;response;C1_School closing;3
+2020-03-24;response;C4_Restrictions on gatherings;4
+2020-03-24;response;C6_Stay at home requirements;2
+2020-03-25;response;C1_School closing;3
+2020-03-25;response;C4_Restrictions on gatherings;4
+2020-03-25;response;C6_Stay at home requirements;2
+2020-03-26;response;C1_School closing;3
+2020-03-26;response;C4_Restrictions on gatherings;4
+2020-03-26;response;C6_Stay at home requirements;2
+2020-03-27;response;C1_School closing;3
+2020-03-27;response;C4_Restrictions on gatherings;4
+2020-03-27;response;C6_Stay at home requirements;2
+2020-03-28;response;C1_School closing;3
+2020-03-28;response;C4_Restrictions on gatherings;4
+2020-03-28;response;C6_Stay at home requirements;2
+2020-03-29;response;C1_School closing;3
+2020-03-29;response;C4_Restrictions on gatherings;4
+2020-03-29;response;C6_Stay at home requirements;2
+2020-03-30;response;C1_School closing;3
+2020-03-30;response;C4_Restrictions on gatherings;4
+2020-03-30;response;C6_Stay at home requirements;2
+2020-03-31;response;C1_School closing;3
+2020-03-31;response;C4_Restrictions on gatherings;4
+2020-03-31;response;C6_Stay at home requirements;2
+2020-04-01;response;C1_School closing;3
+2020-04-01;response;C4_Restrictions on gatherings;4
+2020-04-01;response;C6_Stay at home requirements;2
+2020-04-02;response;C1_School closing;3
+2020-04-02;response;C4_Restrictions on gatherings;4
+2020-04-02;response;C6_Stay at home requirements;2
+2020-04-03;response;C1_School closing;3
+2020-04-03;response;C4_Restrictions on gatherings;4
+2020-04-03;response;C6_Stay at home requirements;2
+2020-04-04;response;C1_School closing;3
+2020-04-04;response;C4_Restrictions on gatherings;4
+2020-04-04;response;C6_Stay at home requirements;2
+2020-04-05;response;C1_School closing;3
+2020-04-05;response;C4_Restrictions on gatherings;4
+2020-04-05;response;C6_Stay at home requirements;2
+2020-04-06;response;C1_School closing;3
+2020-04-06;response;C4_Restrictions on gatherings;4
+2020-04-06;response;C6_Stay at home requirements;2
+2020-04-07;response;C1_School closing;3
+2020-04-07;response;C4_Restrictions on gatherings;4
+2020-04-07;response;C6_Stay at home requirements;2
+2020-04-08;response;C1_School closing;3
+2020-04-08;response;C4_Restrictions on gatherings;4
+2020-04-08;response;C6_Stay at home requirements;2
+2020-04-09;response;C1_School closing;3
+2020-04-09;response;C4_Restrictions on gatherings;4
+2020-04-09;response;C6_Stay at home requirements;2
+2020-04-10;response;C1_School closing;3
+2020-04-10;response;C4_Restrictions on gatherings;4
+2020-04-10;response;C6_Stay at home requirements;2
+2020-04-11;response;C1_School closing;3
+2020-04-11;response;C4_Restrictions on gatherings;4
+2020-04-11;response;C6_Stay at home requirements;2
+2020-04-12;response;C1_School closing;3
+2020-04-12;response;C4_Restrictions on gatherings;4
+2020-04-12;response;C6_Stay at home requirements;2
+2020-04-13;response;C1_School closing;3
+2020-04-13;response;C4_Restrictions on gatherings;4
+2020-04-13;response;C6_Stay at home requirements;2
+2020-04-14;response;C1_School closing;3
+2020-04-14;response;C4_Restrictions on gatherings;4
+2020-04-14;response;C6_Stay at home requirements;2
+2020-04-15;response;C1_School closing;3
+2020-04-15;response;C4_Restrictions on gatherings;4
+2020-04-15;response;C6_Stay at home requirements;2
+2020-04-16;response;C1_School closing;3
+2020-04-16;response;C4_Restrictions on gatherings;4
+2020-04-16;response;C6_Stay at home requirements;2
+2020-04-17;response;C1_School closing;3
+2020-04-17;response;C4_Restrictions on gatherings;4
+2020-04-17;response;C6_Stay at home requirements;2
+2020-04-18;response;C1_School closing;3
+2020-04-18;response;C4_Restrictions on gatherings;4
+2020-04-18;response;C6_Stay at home requirements;2
+2020-04-19;response;C1_School closing;3
+2020-04-19;response;C4_Restrictions on gatherings;4
+2020-04-19;response;C6_Stay at home requirements;2
+2020-04-20;response;C1_School closing;3
+2020-04-20;response;C4_Restrictions on gatherings;4
+2020-04-20;response;C6_Stay at home requirements;2
+2020-04-21;response;C1_School closing;3
+2020-04-21;response;C4_Restrictions on gatherings;4
+2020-04-21;response;C6_Stay at home requirements;2
+2020-04-22;response;C1_School closing;3
+2020-04-22;response;C4_Restrictions on gatherings;4
+2020-04-22;response;C6_Stay at home requirements;2
+2020-04-23;response;C1_School closing;3
+2020-04-23;response;C4_Restrictions on gatherings;4
+2020-04-23;response;C6_Stay at home requirements;2
+2020-04-24;response;C1_School closing;3
+2020-04-24;response;C4_Restrictions on gatherings;4
+2020-04-24;response;C6_Stay at home requirements;2
+2020-04-25;response;C1_School closing;3
+2020-04-25;response;C4_Restrictions on gatherings;4
+2020-04-25;response;C6_Stay at home requirements;2
+2020-04-26;response;C1_School closing;3
+2020-04-26;response;C4_Restrictions on gatherings;4
+2020-04-26;response;C6_Stay at home requirements;2
+2020-04-27;response;C1_School closing;3
+2020-04-27;response;C4_Restrictions on gatherings;4
+2020-04-27;response;C6_Stay at home requirements;2
+2020-04-28;response;C1_School closing;3
+2020-04-28;response;C4_Restrictions on gatherings;4
+2020-04-28;response;C6_Stay at home requirements;2
+2020-04-29;response;C1_School closing;3
+2020-04-29;response;C4_Restrictions on gatherings;4
+2020-04-29;response;C6_Stay at home requirements;2
+2020-04-30;response;C1_School closing;3
+2020-04-30;response;C4_Restrictions on gatherings;4
+2020-04-30;response;C6_Stay at home requirements;2
+2020-05-01;response;C1_School closing;3
+2020-05-01;response;C4_Restrictions on gatherings;4
+2020-05-01;response;C6_Stay at home requirements;2
+2020-05-02;response;C1_School closing;3
+2020-05-02;response;C4_Restrictions on gatherings;4
+2020-05-02;response;C6_Stay at home requirements;2
+2020-05-03;response;C1_School closing;3
+2020-05-03;response;C4_Restrictions on gatherings;4
+2020-05-03;response;C6_Stay at home requirements;2
+2020-05-04;response;C1_School closing;2
+2020-05-04;response;C4_Restrictions on gatherings;4
+2020-05-04;response;C6_Stay at home requirements;2
+2020-05-05;response;C1_School closing;2
+2020-05-05;response;C4_Restrictions on gatherings;4
+2020-05-05;response;C6_Stay at home requirements;2
+2020-05-06;response;C1_School closing;2
+2020-05-06;response;C4_Restrictions on gatherings;4
+2020-05-06;response;C6_Stay at home requirements;0
+2020-05-07;response;C1_School closing;2
+2020-05-07;response;C4_Restrictions on gatherings;4
+2020-05-07;response;C6_Stay at home requirements;0
+2020-05-08;response;C1_School closing;2
+2020-05-08;response;C4_Restrictions on gatherings;4
+2020-05-08;response;C6_Stay at home requirements;0
+2020-05-09;response;C1_School closing;2
+2020-05-09;response;C4_Restrictions on gatherings;4
+2020-05-09;response;C6_Stay at home requirements;0
+2020-05-10;response;C1_School closing;2
+2020-05-10;response;C4_Restrictions on gatherings;4
+2020-05-10;response;C6_Stay at home requirements;0
+2020-05-11;response;C1_School closing;2
+2020-05-11;response;C4_Restrictions on gatherings;4
+2020-05-11;response;C6_Stay at home requirements;0
+2020-05-12;response;C1_School closing;2
+2020-05-12;response;C4_Restrictions on gatherings;4
+2020-05-12;response;C6_Stay at home requirements;0
+2020-05-13;response;C1_School closing;2
+2020-05-13;response;C4_Restrictions on gatherings;4
+2020-05-13;response;C6_Stay at home requirements;0
+2020-05-14;response;C1_School closing;2
+2020-05-14;response;C4_Restrictions on gatherings;4
+2020-05-14;response;C6_Stay at home requirements;0
+2020-05-15;response;C1_School closing;2
+2020-05-15;response;C4_Restrictions on gatherings;4
+2020-05-15;response;C6_Stay at home requirements;0
+2020-05-16;response;C1_School closing;2
+2020-05-16;response;C4_Restrictions on gatherings;4
+2020-05-16;response;C6_Stay at home requirements;0
+2020-05-17;response;C1_School closing;2
+2020-05-17;response;C4_Restrictions on gatherings;4
+2020-05-17;response;C6_Stay at home requirements;0
+2020-05-18;response;C1_School closing;2
+2020-05-18;response;C4_Restrictions on gatherings;4
+2020-05-18;response;C6_Stay at home requirements;0
+2020-05-19;response;C1_School closing;2
+2020-05-19;response;C4_Restrictions on gatherings;4
+2020-05-19;response;C6_Stay at home requirements;0
+2020-05-20;response;C1_School closing;2
+2020-05-20;response;C4_Restrictions on gatherings;4
+2020-05-20;response;C6_Stay at home requirements;0
+2020-05-21;response;C1_School closing;2
+2020-05-21;response;C4_Restrictions on gatherings;4
+2020-05-21;response;C6_Stay at home requirements;0
+2020-05-22;response;C1_School closing;2
+2020-05-22;response;C4_Restrictions on gatherings;4
+2020-05-22;response;C6_Stay at home requirements;0
+2020-05-23;response;C1_School closing;2
+2020-05-23;response;C4_Restrictions on gatherings;4
+2020-05-23;response;C6_Stay at home requirements;0
+2020-05-24;response;C1_School closing;2
+2020-05-24;response;C4_Restrictions on gatherings;4
+2020-05-24;response;C6_Stay at home requirements;0
+2020-05-25;response;C1_School closing;2
+2020-05-25;response;C4_Restrictions on gatherings;4
+2020-05-25;response;C6_Stay at home requirements;0
+2020-05-26;response;C1_School closing;2
+2020-05-26;response;C4_Restrictions on gatherings;4
+2020-05-26;response;C6_Stay at home requirements;0
+2020-05-27;response;C1_School closing;2
+2020-05-27;response;C4_Restrictions on gatherings;4
+2020-05-27;response;C6_Stay at home requirements;0
+2020-05-28;response;C1_School closing;2
+2020-05-28;response;C4_Restrictions on gatherings;4
+2020-05-28;response;C6_Stay at home requirements;0
+2020-05-29;response;C1_School closing;2
+2020-05-29;response;C4_Restrictions on gatherings;4
+2020-05-29;response;C6_Stay at home requirements;0
+2020-05-30;response;C1_School closing;2
+2020-05-30;response;C4_Restrictions on gatherings;4
+2020-05-30;response;C6_Stay at home requirements;0
+2020-05-31;response;C1_School closing;2
+2020-05-31;response;C4_Restrictions on gatherings;4
+2020-05-31;response;C6_Stay at home requirements;0
+2020-06-01;response;C1_School closing;2
+2020-06-01;response;C4_Restrictions on gatherings;4
+2020-06-01;response;C6_Stay at home requirements;0
+2020-06-02;response;C1_School closing;2
+2020-06-02;response;C4_Restrictions on gatherings;4
+2020-06-02;response;C6_Stay at home requirements;0
+2020-06-03;response;C1_School closing;2
+2020-06-03;response;C4_Restrictions on gatherings;4
+2020-06-03;response;C6_Stay at home requirements;0
+2020-06-04;response;C1_School closing;2
+2020-06-04;response;C4_Restrictions on gatherings;4
+2020-06-04;response;C6_Stay at home requirements;0
+2020-06-05;response;C1_School closing;2
+2020-06-05;response;C4_Restrictions on gatherings;4
+2020-06-05;response;C6_Stay at home requirements;0
+2020-06-06;response;C1_School closing;2
+2020-06-06;response;C4_Restrictions on gatherings;4
+2020-06-06;response;C6_Stay at home requirements;0
+2020-06-07;response;C1_School closing;2
+2020-06-07;response;C4_Restrictions on gatherings;4
+2020-06-07;response;C6_Stay at home requirements;0
+2020-06-08;response;C1_School closing;2
+2020-06-08;response;C4_Restrictions on gatherings;4
+2020-06-08;response;C6_Stay at home requirements;0
+2020-06-09;response;C1_School closing;2
+2020-06-09;response;C4_Restrictions on gatherings;4
+2020-06-09;response;C6_Stay at home requirements;0
+2020-06-10;response;C1_School closing;2
+2020-06-10;response;C4_Restrictions on gatherings;4
+2020-06-10;response;C6_Stay at home requirements;0
+2020-06-11;response;C1_School closing;2
+2020-06-11;response;C4_Restrictions on gatherings;4
+2020-06-11;response;C6_Stay at home requirements;0
+2020-06-12;response;C1_School closing;2
+2020-06-12;response;C4_Restrictions on gatherings;4
+2020-06-12;response;C6_Stay at home requirements;0
+2020-06-13;response;C1_School closing;2
+2020-06-13;response;C4_Restrictions on gatherings;4
+2020-06-13;response;C6_Stay at home requirements;0
+2020-06-14;response;C1_School closing;2
+2020-06-14;response;C4_Restrictions on gatherings;4
+2020-06-14;response;C6_Stay at home requirements;0
+2020-06-15;response;C1_School closing;2
+2020-06-15;response;C4_Restrictions on gatherings;4
+2020-06-15;response;C6_Stay at home requirements;0
+2020-06-16;response;C1_School closing;2
+2020-06-16;response;C4_Restrictions on gatherings;4
+2020-06-16;response;C6_Stay at home requirements;0
+2020-06-17;response;C1_School closing;2
+2020-06-17;response;C4_Restrictions on gatherings;4
+2020-06-17;response;C6_Stay at home requirements;0
+2020-06-18;response;C1_School closing;3
+2020-06-18;response;C4_Restrictions on gatherings;4
+2020-06-18;response;C6_Stay at home requirements;0
+2020-06-19;response;C1_School closing;3
+2020-06-19;response;C4_Restrictions on gatherings;4
+2020-06-19;response;C6_Stay at home requirements;0
+2020-06-20;response;C1_School closing;3
+2020-06-20;response;C4_Restrictions on gatherings;4
+2020-06-20;response;C6_Stay at home requirements;0
+2020-06-21;response;C1_School closing;3
+2020-06-21;response;C4_Restrictions on gatherings;4
+2020-06-21;response;C6_Stay at home requirements;0
+2020-06-22;response;C1_School closing;3
+2020-06-22;response;C4_Restrictions on gatherings;4
+2020-06-22;response;C6_Stay at home requirements;0
+2020-06-23;response;C1_School closing;3
+2020-06-23;response;C4_Restrictions on gatherings;4
+2020-06-23;response;C6_Stay at home requirements;0
+2020-06-24;response;C1_School closing;3
+2020-06-24;response;C4_Restrictions on gatherings;4
+2020-06-24;response;C6_Stay at home requirements;0
+2020-06-25;response;C1_School closing;3
+2020-06-25;response;C4_Restrictions on gatherings;4
+2020-06-25;response;C6_Stay at home requirements;0
+2020-06-26;response;C1_School closing;3
+2020-06-26;response;C4_Restrictions on gatherings;4
+2020-06-26;response;C6_Stay at home requirements;0
+2020-06-27;response;C1_School closing;3
+2020-06-27;response;C4_Restrictions on gatherings;4
+2020-06-27;response;C6_Stay at home requirements;0
+2020-06-28;response;C1_School closing;3
+2020-06-28;response;C4_Restrictions on gatherings;4
+2020-06-28;response;C6_Stay at home requirements;0
+2020-06-29;response;C1_School closing;3
+2020-06-29;response;C4_Restrictions on gatherings;4
+2020-06-29;response;C6_Stay at home requirements;0
+2020-06-30;response;C1_School closing;3
+2020-06-30;response;C4_Restrictions on gatherings;4
+2020-06-30;response;C6_Stay at home requirements;0
+2020-07-01;response;C1_School closing;3
+2020-07-01;response;C4_Restrictions on gatherings;4
+2020-07-01;response;C6_Stay at home requirements;0
+2020-07-02;response;C1_School closing;3
+2020-07-02;response;C4_Restrictions on gatherings;4
+2020-07-02;response;C6_Stay at home requirements;0
+2020-07-03;response;C1_School closing;3
+2020-07-03;response;C4_Restrictions on gatherings;4
+2020-07-03;response;C6_Stay at home requirements;0
+2020-07-04;response;C1_School closing;3
+2020-07-04;response;C4_Restrictions on gatherings;4
+2020-07-04;response;C6_Stay at home requirements;0
+2020-07-05;response;C1_School closing;3
+2020-07-05;response;C4_Restrictions on gatherings;4
+2020-07-05;response;C6_Stay at home requirements;0
+2020-07-06;response;C1_School closing;3
+2020-07-06;response;C4_Restrictions on gatherings;4
+2020-07-06;response;C6_Stay at home requirements;0
+2020-07-07;response;C1_School closing;1
+2020-07-07;response;C4_Restrictions on gatherings;3
+2020-07-07;response;C6_Stay at home requirements;0
+2020-07-08;response;C1_School closing;1
+2020-07-08;response;C4_Restrictions on gatherings;3
+2020-07-08;response;C6_Stay at home requirements;0
+2020-07-09;response;C1_School closing;1
+2020-07-09;response;C4_Restrictions on gatherings;3
+2020-07-09;response;C6_Stay at home requirements;0
+2020-07-10;response;C1_School closing;1
+2020-07-10;response;C4_Restrictions on gatherings;3
+2020-07-10;response;C6_Stay at home requirements;0
+2020-07-11;response;C1_School closing;1
+2020-07-11;response;C4_Restrictions on gatherings;3
+2020-07-11;response;C6_Stay at home requirements;0
+2020-07-12;response;C1_School closing;1
+2020-07-12;response;C4_Restrictions on gatherings;3
+2020-07-12;response;C6_Stay at home requirements;0
+2020-07-13;response;C1_School closing;1
+2020-07-13;response;C4_Restrictions on gatherings;3
+2020-07-13;response;C6_Stay at home requirements;0
+2020-07-14;response;C1_School closing;1
+2020-07-14;response;C4_Restrictions on gatherings;3
+2020-07-14;response;C6_Stay at home requirements;0
+2020-07-15;response;C1_School closing;1
+2020-07-15;response;C4_Restrictions on gatherings;3
+2020-07-15;response;C6_Stay at home requirements;0
+2020-07-16;response;C1_School closing;1
+2020-07-16;response;C4_Restrictions on gatherings;3
+2020-07-16;response;C6_Stay at home requirements;0
+2020-07-17;response;C1_School closing;1
+2020-07-17;response;C4_Restrictions on gatherings;3
+2020-07-17;response;C6_Stay at home requirements;0
+2020-07-18;response;C1_School closing;1
+2020-07-18;response;C4_Restrictions on gatherings;3
+2020-07-18;response;C6_Stay at home requirements;0
+2020-07-19;response;C1_School closing;1
+2020-07-19;response;C4_Restrictions on gatherings;3
+2020-07-19;response;C6_Stay at home requirements;0
+2020-07-20;response;C1_School closing;1
+2020-07-20;response;C4_Restrictions on gatherings;3
+2020-07-20;response;C6_Stay at home requirements;0
+2020-07-21;response;C1_School closing;1
+2020-07-21;response;C4_Restrictions on gatherings;3
+2020-07-21;response;C6_Stay at home requirements;0
+2020-07-22;response;C1_School closing;1
+2020-07-22;response;C4_Restrictions on gatherings;3
+2020-07-22;response;C6_Stay at home requirements;0
+2020-07-23;response;C1_School closing;1
+2020-07-23;response;C4_Restrictions on gatherings;3
+2020-07-23;response;C6_Stay at home requirements;0
+2020-07-24;response;C1_School closing;1
+2020-07-24;response;C4_Restrictions on gatherings;3
+2020-07-24;response;C6_Stay at home requirements;0
+2020-07-25;response;C1_School closing;1
+2020-07-25;response;C4_Restrictions on gatherings;3
+2020-07-25;response;C6_Stay at home requirements;0
+2020-07-26;response;C1_School closing;1
+2020-07-26;response;C4_Restrictions on gatherings;3
+2020-07-26;response;C6_Stay at home requirements;0
+2020-07-27;response;C1_School closing;1
+2020-07-27;response;C4_Restrictions on gatherings;3
+2020-07-27;response;C6_Stay at home requirements;0
+2020-07-28;response;C1_School closing;1
+2020-07-28;response;C4_Restrictions on gatherings;3
+2020-07-28;response;C6_Stay at home requirements;0
+2020-07-29;response;C1_School closing;1
+2020-07-29;response;C4_Restrictions on gatherings;3
+2020-07-29;response;C6_Stay at home requirements;0
+2020-07-30;response;C1_School closing;1
+2020-07-30;response;C4_Restrictions on gatherings;3
+2020-07-30;response;C6_Stay at home requirements;0
+2020-07-31;response;C1_School closing;1
+2020-07-31;response;C4_Restrictions on gatherings;4
+2020-07-31;response;C6_Stay at home requirements;0
+2020-08-01;response;C1_School closing;1
+2020-08-01;response;C4_Restrictions on gatherings;4
+2020-08-01;response;C6_Stay at home requirements;0
+2020-08-02;response;C1_School closing;1
+2020-08-02;response;C4_Restrictions on gatherings;4
+2020-08-02;response;C6_Stay at home requirements;0
+2020-08-03;response;C1_School closing;1
+2020-08-03;response;C4_Restrictions on gatherings;4
+2020-08-03;response;C6_Stay at home requirements;0
+2020-08-04;response;C1_School closing;1
+2020-08-04;response;C4_Restrictions on gatherings;4
+2020-08-04;response;C6_Stay at home requirements;0
+2020-08-05;response;C1_School closing;1
+2020-08-05;response;C4_Restrictions on gatherings;4
+2020-08-05;response;C6_Stay at home requirements;0
+2020-08-06;response;C1_School closing;1
+2020-08-06;response;C4_Restrictions on gatherings;4
+2020-08-06;response;C6_Stay at home requirements;0
+2020-08-07;response;C1_School closing;2
+2020-08-07;response;C4_Restrictions on gatherings;4
+2020-08-07;response;C6_Stay at home requirements;0
+2020-08-08;response;C1_School closing;2
+2020-08-08;response;C4_Restrictions on gatherings;3
+2020-08-08;response;C6_Stay at home requirements;0
+2020-08-09;response;C1_School closing;2
+2020-08-09;response;C4_Restrictions on gatherings;3
+2020-08-09;response;C6_Stay at home requirements;0
+2020-08-10;response;C1_School closing;2
+2020-08-10;response;C4_Restrictions on gatherings;3
+2020-08-10;response;C6_Stay at home requirements;0
+2020-08-11;response;C1_School closing;2
+2020-08-11;response;C4_Restrictions on gatherings;3
+2020-08-11;response;C6_Stay at home requirements;0
+2020-08-12;response;C1_School closing;2
+2020-08-12;response;C4_Restrictions on gatherings;3
+2020-08-12;response;C6_Stay at home requirements;0
+2020-08-13;response;C1_School closing;2
+2020-08-13;response;C4_Restrictions on gatherings;3
+2020-08-13;response;C6_Stay at home requirements;0
+2020-08-14;response;C1_School closing;2
+2020-08-14;response;C4_Restrictions on gatherings;3
+2020-08-14;response;C6_Stay at home requirements;0
+2020-08-15;response;C1_School closing;2
+2020-08-15;response;C4_Restrictions on gatherings;3
+2020-08-15;response;C6_Stay at home requirements;0
+2020-08-16;response;C1_School closing;2
+2020-08-16;response;C4_Restrictions on gatherings;3
+2020-08-16;response;C6_Stay at home requirements;0
+2020-08-17;response;C1_School closing;2
+2020-08-17;response;C4_Restrictions on gatherings;3
+2020-08-17;response;C6_Stay at home requirements;0
+2020-08-18;response;C1_School closing;2
+2020-08-18;response;C4_Restrictions on gatherings;3
+2020-08-18;response;C6_Stay at home requirements;0
+2020-08-19;response;C1_School closing;2
+2020-08-19;response;C4_Restrictions on gatherings;3
+2020-08-19;response;C6_Stay at home requirements;0
+2020-08-20;response;C1_School closing;2
+2020-08-20;response;C4_Restrictions on gatherings;3
+2020-08-20;response;C6_Stay at home requirements;0
+2020-08-21;response;C1_School closing;2
+2020-08-21;response;C4_Restrictions on gatherings;3
+2020-08-21;response;C6_Stay at home requirements;0
+2020-08-22;response;C1_School closing;2
+2020-08-22;response;C4_Restrictions on gatherings;3
+2020-08-22;response;C6_Stay at home requirements;0
+2020-08-23;response;C1_School closing;2
+2020-08-23;response;C4_Restrictions on gatherings;3
+2020-08-23;response;C6_Stay at home requirements;0
+2020-08-24;response;C1_School closing;2
+2020-08-24;response;C4_Restrictions on gatherings;4
+2020-08-24;response;C6_Stay at home requirements;0
+2020-08-25;response;C1_School closing;2
+2020-08-25;response;C4_Restrictions on gatherings;4
+2020-08-25;response;C6_Stay at home requirements;0
+2020-08-26;response;C1_School closing;2
+2020-08-26;response;C4_Restrictions on gatherings;4
+2020-08-26;response;C6_Stay at home requirements;0
+2020-08-27;response;C1_School closing;2
+2020-08-27;response;C4_Restrictions on gatherings;4
+2020-08-27;response;C6_Stay at home requirements;0
+2020-08-28;response;C1_School closing;2
+2020-08-28;response;C4_Restrictions on gatherings;4
+2020-08-28;response;C6_Stay at home requirements;0
+2020-08-29;response;C1_School closing;2
+2020-08-29;response;C4_Restrictions on gatherings;4
+2020-08-29;response;C6_Stay at home requirements;0
+2020-08-30;response;C1_School closing;2
+2020-08-30;response;C4_Restrictions on gatherings;4
+2020-08-30;response;C6_Stay at home requirements;0
+2020-08-31;response;C1_School closing;2
+2020-08-31;response;C4_Restrictions on gatherings;4
+2020-08-31;response;C6_Stay at home requirements;0
+2020-09-01;response;C1_School closing;2
+2020-09-01;response;C4_Restrictions on gatherings;4
+2020-09-01;response;C6_Stay at home requirements;0
+2020-09-02;response;C1_School closing;2
+2020-09-02;response;C4_Restrictions on gatherings;4
+2020-09-02;response;C6_Stay at home requirements;0
+2020-09-03;response;C1_School closing;1
+2020-09-03;response;C4_Restrictions on gatherings;4
+2020-09-03;response;C6_Stay at home requirements;0
+2020-09-04;response;C1_School closing;1
+2020-09-04;response;C4_Restrictions on gatherings;4
+2020-09-04;response;C6_Stay at home requirements;0
+2020-09-05;response;C1_School closing;1
+2020-09-05;response;C4_Restrictions on gatherings;4
+2020-09-05;response;C6_Stay at home requirements;0
+2020-09-06;response;C1_School closing;1
+2020-09-06;response;C4_Restrictions on gatherings;4
+2020-09-06;response;C6_Stay at home requirements;0
+2020-09-07;response;C1_School closing;1
+2020-09-07;response;C4_Restrictions on gatherings;4
+2020-09-07;response;C6_Stay at home requirements;0
+2020-09-08;response;C1_School closing;1
+2020-09-08;response;C4_Restrictions on gatherings;4
+2020-09-08;response;C6_Stay at home requirements;0
+2020-09-09;response;C1_School closing;1
+2020-09-09;response;C4_Restrictions on gatherings;4
+2020-09-09;response;C6_Stay at home requirements;0
+2020-09-10;response;C1_School closing;1
+2020-09-10;response;C4_Restrictions on gatherings;4
+2020-09-10;response;C6_Stay at home requirements;0
+2020-09-11;response;C1_School closing;1
+2020-09-11;response;C4_Restrictions on gatherings;4
+2020-09-11;response;C6_Stay at home requirements;0
+2020-09-12;response;C1_School closing;1
+2020-09-12;response;C4_Restrictions on gatherings;4
+2020-09-12;response;C6_Stay at home requirements;0
+2020-09-13;response;C1_School closing;1
+2020-09-13;response;C4_Restrictions on gatherings;4
+2020-09-13;response;C6_Stay at home requirements;0
+2020-09-14;response;C1_School closing;1
+2020-09-14;response;C4_Restrictions on gatherings;4
+2020-09-14;response;C6_Stay at home requirements;0
+2020-09-15;response;C1_School closing;1
+2020-09-15;response;C4_Restrictions on gatherings;4
+2020-09-15;response;C6_Stay at home requirements;0
+2020-09-16;response;C1_School closing;1
+2020-09-16;response;C4_Restrictions on gatherings;4
+2020-09-16;response;C6_Stay at home requirements;0
+2020-09-17;response;C1_School closing;1
+2020-09-17;response;C4_Restrictions on gatherings;4
+2020-09-17;response;C6_Stay at home requirements;0
+2020-09-18;response;C1_School closing;1
+2020-09-18;response;C4_Restrictions on gatherings;4
+2020-09-18;response;C6_Stay at home requirements;0
+2020-09-19;response;C1_School closing;1
+2020-09-19;response;C4_Restrictions on gatherings;4
+2020-09-19;response;C6_Stay at home requirements;0
+2020-09-20;response;C1_School closing;1
+2020-09-20;response;C4_Restrictions on gatherings;4
+2020-09-20;response;C6_Stay at home requirements;0
+2020-09-21;response;C1_School closing;1
+2020-09-21;response;C4_Restrictions on gatherings;4
+2020-09-21;response;C6_Stay at home requirements;0
+2020-09-22;response;C1_School closing;1
+2020-09-22;response;C4_Restrictions on gatherings;4
+2020-09-22;response;C6_Stay at home requirements;0
+2020-09-23;response;C1_School closing;1
+2020-09-23;response;C4_Restrictions on gatherings;4
+2020-09-23;response;C6_Stay at home requirements;0
+2020-09-24;response;C1_School closing;1
+2020-09-24;response;C4_Restrictions on gatherings;4
+2020-09-24;response;C6_Stay at home requirements;0
+2020-09-25;response;C1_School closing;1
+2020-09-25;response;C4_Restrictions on gatherings;4
+2020-09-25;response;C6_Stay at home requirements;0
+2020-09-26;response;C1_School closing;1
+2020-09-26;response;C4_Restrictions on gatherings;4
+2020-09-26;response;C6_Stay at home requirements;0
+2020-09-27;response;C1_School closing;1
+2020-09-27;response;C4_Restrictions on gatherings;4
+2020-09-27;response;C6_Stay at home requirements;0
+2020-09-28;response;C1_School closing;1
+2020-09-28;response;C4_Restrictions on gatherings;4
+2020-09-28;response;C6_Stay at home requirements;0
+2020-09-29;response;C1_School closing;1
+2020-09-29;response;C4_Restrictions on gatherings;4
+2020-09-29;response;C6_Stay at home requirements;0
+2020-09-30;response;C1_School closing;1
+2020-09-30;response;C4_Restrictions on gatherings;4
+2020-09-30;response;C6_Stay at home requirements;0
+2020-10-01;response;C1_School closing;1
+2020-10-01;response;C4_Restrictions on gatherings;4
+2020-10-01;response;C6_Stay at home requirements;0
+2020-10-02;response;C1_School closing;1
+2020-10-02;response;C4_Restrictions on gatherings;4
+2020-10-02;response;C6_Stay at home requirements;0
+2020-10-03;response;C1_School closing;1
+2020-10-03;response;C4_Restrictions on gatherings;4
+2020-10-03;response;C6_Stay at home requirements;0
+2020-10-04;response;C1_School closing;1
+2020-10-04;response;C4_Restrictions on gatherings;4
+2020-10-04;response;C6_Stay at home requirements;0
+2020-10-05;response;C1_School closing;1
+2020-10-05;response;C4_Restrictions on gatherings;4
+2020-10-05;response;C6_Stay at home requirements;0
+2020-10-06;response;C1_School closing;1
+2020-10-06;response;C4_Restrictions on gatherings;4
+2020-10-06;response;C6_Stay at home requirements;0
+2020-10-07;response;C1_School closing;1
+2020-10-07;response;C4_Restrictions on gatherings;4
+2020-10-07;response;C6_Stay at home requirements;0
+2020-10-08;response;C1_School closing;1
+2020-10-08;response;C4_Restrictions on gatherings;4
+2020-10-08;response;C6_Stay at home requirements;0
+2020-10-09;response;C1_School closing;1
+2020-10-09;response;C4_Restrictions on gatherings;4
+2020-10-09;response;C6_Stay at home requirements;0
+2020-10-10;response;C1_School closing;1
+2020-10-10;response;C4_Restrictions on gatherings;4
+2020-10-10;response;C6_Stay at home requirements;0
+2020-10-11;response;C1_School closing;1
+2020-10-11;response;C4_Restrictions on gatherings;4
+2020-10-11;response;C6_Stay at home requirements;0
+2020-10-12;response;C1_School closing;1
+2020-10-12;response;C4_Restrictions on gatherings;4
+2020-10-12;response;C6_Stay at home requirements;0
+2020-10-13;response;C1_School closing;1
+2020-10-13;response;C4_Restrictions on gatherings;4
+2020-10-13;response;C6_Stay at home requirements;0
+2020-10-14;response;C1_School closing;1
+2020-10-14;response;C4_Restrictions on gatherings;4
+2020-10-14;response;C6_Stay at home requirements;0
+2020-10-15;response;C1_School closing;1
+2020-10-15;response;C4_Restrictions on gatherings;4
+2020-10-15;response;C6_Stay at home requirements;1
+2020-10-16;response;C1_School closing;1
+2020-10-16;response;C4_Restrictions on gatherings;4
+2020-10-16;response;C6_Stay at home requirements;1
+2020-10-17;response;C1_School closing;1
+2020-10-17;response;C4_Restrictions on gatherings;4
+2020-10-17;response;C6_Stay at home requirements;1
+2020-10-18;response;C1_School closing;1
+2020-10-18;response;C4_Restrictions on gatherings;4
+2020-10-18;response;C6_Stay at home requirements;1
+2020-10-19;response;C1_School closing;1
+2020-10-19;response;C4_Restrictions on gatherings;4
+2020-10-19;response;C6_Stay at home requirements;1
+2020-10-20;response;C1_School closing;1
+2020-10-20;response;C4_Restrictions on gatherings;4
+2020-10-20;response;C6_Stay at home requirements;1
+2020-10-21;response;C1_School closing;1
+2020-10-21;response;C4_Restrictions on gatherings;4
+2020-10-21;response;C6_Stay at home requirements;1
+2020-10-22;response;C1_School closing;1
+2020-10-22;response;C4_Restrictions on gatherings;4
+2020-10-22;response;C6_Stay at home requirements;2
+2020-10-23;response;C1_School closing;1
+2020-10-23;response;C4_Restrictions on gatherings;4
+2020-10-23;response;C6_Stay at home requirements;2
+2020-10-24;response;C1_School closing;1
+2020-10-24;response;C4_Restrictions on gatherings;4
+2020-10-24;response;C6_Stay at home requirements;2
+2020-10-25;response;C1_School closing;1
+2020-10-25;response;C4_Restrictions on gatherings;4
+2020-10-25;response;C6_Stay at home requirements;2
+2020-10-26;response;C1_School closing;1
+2020-10-26;response;C4_Restrictions on gatherings;4
+2020-10-26;response;C6_Stay at home requirements;2
+2020-10-27;response;C1_School closing;1
+2020-10-27;response;C4_Restrictions on gatherings;4
+2020-10-27;response;C6_Stay at home requirements;2
+2020-10-28;response;C1_School closing;1
+2020-10-28;response;C4_Restrictions on gatherings;4
+2020-10-28;response;C6_Stay at home requirements;2
+2020-10-29;response;C1_School closing;1
+2020-10-29;response;C4_Restrictions on gatherings;4
+2020-10-29;response;C6_Stay at home requirements;2
+2020-10-30;response;C1_School closing;1
+2020-10-30;response;C4_Restrictions on gatherings;4
+2020-10-30;response;C6_Stay at home requirements;2
+2020-10-31;response;C1_School closing;1
+2020-10-31;response;C4_Restrictions on gatherings;4
+2020-10-31;response;C6_Stay at home requirements;2
+2020-11-01;response;C1_School closing;1
+2020-11-01;response;C4_Restrictions on gatherings;4
+2020-11-01;response;C6_Stay at home requirements;2
+2020-11-02;response;C1_School closing;1
+2020-11-02;response;C4_Restrictions on gatherings;4
+2020-11-02;response;C6_Stay at home requirements;1
+2020-11-03;response;C1_School closing;1
+2020-11-03;response;C4_Restrictions on gatherings;4
+2020-11-03;response;C6_Stay at home requirements;1
+2020-11-04;response;C1_School closing;1
+2020-11-04;response;C4_Restrictions on gatherings;4
+2020-11-04;response;C6_Stay at home requirements;1
+2020-11-05;response;C1_School closing;1
+2020-11-05;response;C4_Restrictions on gatherings;4
+2020-11-05;response;C6_Stay at home requirements;1
+2020-11-06;response;C1_School closing;1
+2020-11-06;response;C4_Restrictions on gatherings;4
+2020-11-06;response;C6_Stay at home requirements;1
+2020-11-07;response;C1_School closing;1
+2020-11-07;response;C4_Restrictions on gatherings;4
+2020-11-07;response;C6_Stay at home requirements;1
+2020-11-08;response;C1_School closing;1
+2020-11-08;response;C4_Restrictions on gatherings;4
+2020-11-08;response;C6_Stay at home requirements;1
+2020-11-09;response;C1_School closing;1
+2020-11-09;response;C4_Restrictions on gatherings;4
+2020-11-09;response;C6_Stay at home requirements;1
+2020-11-10;response;C1_School closing;1
+2020-11-10;response;C4_Restrictions on gatherings;4
+2020-11-10;response;C6_Stay at home requirements;1
+2020-11-11;response;C1_School closing;1
+2020-11-11;response;C4_Restrictions on gatherings;4
+2020-11-11;response;C6_Stay at home requirements;1
+2020-11-12;response;C1_School closing;1
+2020-11-12;response;C4_Restrictions on gatherings;4
+2020-11-12;response;C6_Stay at home requirements;1
+2020-11-13;response;C1_School closing;1
+2020-11-13;response;C4_Restrictions on gatherings;4
+2020-11-13;response;C6_Stay at home requirements;1
+2020-11-14;response;C1_School closing;1
+2020-11-14;response;C4_Restrictions on gatherings;4
+2020-11-14;response;C6_Stay at home requirements;1
+2020-11-15;response;C1_School closing;1
+2020-11-15;response;C4_Restrictions on gatherings;4
+2020-11-15;response;C6_Stay at home requirements;1
+2020-11-16;response;C1_School closing;1
+2020-11-16;response;C4_Restrictions on gatherings;4
+2020-11-16;response;C6_Stay at home requirements;1
+2020-11-17;response;C1_School closing;1
+2020-11-17;response;C4_Restrictions on gatherings;4
+2020-11-17;response;C6_Stay at home requirements;1
+2020-11-18;response;C1_School closing;1
+2020-11-18;response;C4_Restrictions on gatherings;4
+2020-11-18;response;C6_Stay at home requirements;1
+2020-11-19;response;C1_School closing;1
+2020-11-19;response;C4_Restrictions on gatherings;4
+2020-11-19;response;C6_Stay at home requirements;1
+2020-11-20;response;C1_School closing;1
+2020-11-20;response;C4_Restrictions on gatherings;4
+2020-11-20;response;C6_Stay at home requirements;1
+2020-11-21;response;C1_School closing;1
+2020-11-21;response;C4_Restrictions on gatherings;4
+2020-11-21;response;C6_Stay at home requirements;1
+2020-11-22;response;C1_School closing;1
+2020-11-22;response;C4_Restrictions on gatherings;4
+2020-11-22;response;C6_Stay at home requirements;1
+2020-11-23;response;C1_School closing;1
+2020-11-23;response;C4_Restrictions on gatherings;4
+2020-11-23;response;C6_Stay at home requirements;1
+2020-11-24;response;C1_School closing;1
+2020-11-24;response;C4_Restrictions on gatherings;4
+2020-11-24;response;C6_Stay at home requirements;1
+2020-11-25;response;C1_School closing;1
+2020-11-25;response;C4_Restrictions on gatherings;4
+2020-11-25;response;C6_Stay at home requirements;1
+2020-11-26;response;C1_School closing;1
+2020-11-26;response;C4_Restrictions on gatherings;4
+2020-11-26;response;C6_Stay at home requirements;1
+2020-11-27;response;C1_School closing;1
+2020-11-27;response;C4_Restrictions on gatherings;4
+2020-11-27;response;C6_Stay at home requirements;1
+2020-11-28;response;C1_School closing;1
+2020-11-28;response;C4_Restrictions on gatherings;4
+2020-11-28;response;C6_Stay at home requirements;1
+2020-11-29;response;C1_School closing;1
+2020-11-29;response;C4_Restrictions on gatherings;4
+2020-11-29;response;C6_Stay at home requirements;1
+2020-11-30;response;C1_School closing;1
+2020-11-30;response;C4_Restrictions on gatherings;4
+2020-11-30;response;C6_Stay at home requirements;1
+2020-12-01;response;C1_School closing;1
+2020-12-01;response;C4_Restrictions on gatherings;4
+2020-12-01;response;C6_Stay at home requirements;1
+2020-12-02;response;C1_School closing;1
+2020-12-02;response;C4_Restrictions on gatherings;4
+2020-12-02;response;C6_Stay at home requirements;1
+2020-12-03;response;C1_School closing;1
+2020-12-03;response;C4_Restrictions on gatherings;4
+2020-12-03;response;C6_Stay at home requirements;1
+2020-12-04;response;C1_School closing;1
+2020-12-04;response;C4_Restrictions on gatherings;4
+2020-12-04;response;C6_Stay at home requirements;1
+2020-12-05;response;C1_School closing;1
+2020-12-05;response;C4_Restrictions on gatherings;4
+2020-12-05;response;C6_Stay at home requirements;1
+2020-12-06;response;C1_School closing;1
+2020-12-06;response;C4_Restrictions on gatherings;4
+2020-12-06;response;C6_Stay at home requirements;1
+2020-12-07;response;C1_School closing;1
+2020-12-07;response;C4_Restrictions on gatherings;4
+2020-12-07;response;C6_Stay at home requirements;1
+2020-12-08;response;C1_School closing;1
+2020-12-08;response;C4_Restrictions on gatherings;4
+2020-12-08;response;C6_Stay at home requirements;1
+2020-12-09;response;C1_School closing;1
+2020-12-09;response;C4_Restrictions on gatherings;4
+2020-12-09;response;C6_Stay at home requirements;1
+2020-12-10;response;C1_School closing;1
+2020-12-10;response;C4_Restrictions on gatherings;4
+2020-12-10;response;C6_Stay at home requirements;1
+2020-12-11;response;C1_School closing;1
+2020-12-11;response;C4_Restrictions on gatherings;4
+2020-12-11;response;C6_Stay at home requirements;1
+2020-12-12;response;C1_School closing;1
+2020-12-12;response;C4_Restrictions on gatherings;4
+2020-12-12;response;C6_Stay at home requirements;1
+2020-12-13;response;C1_School closing;1
+2020-12-13;response;C4_Restrictions on gatherings;4
+2020-12-13;response;C6_Stay at home requirements;1
+2020-12-14;response;C1_School closing;1
+2020-12-14;response;C4_Restrictions on gatherings;4
+2020-12-14;response;C6_Stay at home requirements;1
+2020-12-15;response;C1_School closing;3
+2020-12-15;response;C4_Restrictions on gatherings;4
+2020-12-15;response;C6_Stay at home requirements;1
+2020-12-16;response;C1_School closing;3
+2020-12-16;response;C4_Restrictions on gatherings;4
+2020-12-16;response;C6_Stay at home requirements;2
+2020-12-17;response;C1_School closing;3
+2020-12-17;response;C4_Restrictions on gatherings;4
+2020-12-17;response;C6_Stay at home requirements;2
+2020-12-18;response;C1_School closing;3
+2020-12-18;response;C4_Restrictions on gatherings;4
+2020-12-18;response;C6_Stay at home requirements;2
+2020-12-19;response;C1_School closing;3
+2020-12-19;response;C4_Restrictions on gatherings;4
+2020-12-19;response;C6_Stay at home requirements;2
+2020-12-20;response;C1_School closing;3
+2020-12-20;response;C4_Restrictions on gatherings;4
+2020-12-20;response;C6_Stay at home requirements;2
+2020-12-21;response;C1_School closing;3
+2020-12-21;response;C4_Restrictions on gatherings;4
+2020-12-21;response;C6_Stay at home requirements;2
+2020-12-22;response;C1_School closing;3
+2020-12-22;response;C4_Restrictions on gatherings;4
+2020-12-22;response;C6_Stay at home requirements;2
+2020-12-23;response;C1_School closing;3
+2020-12-23;response;C4_Restrictions on gatherings;4
+2020-12-23;response;C6_Stay at home requirements;2
+2020-12-24;response;C1_School closing;3
+2020-12-24;response;C4_Restrictions on gatherings;4
+2020-12-24;response;C6_Stay at home requirements;2
+2020-12-25;response;C1_School closing;3
+2020-12-25;response;C4_Restrictions on gatherings;4
+2020-12-25;response;C6_Stay at home requirements;2
+2020-12-26;response;C1_School closing;3
+2020-12-26;response;C4_Restrictions on gatherings;4
+2020-12-26;response;C6_Stay at home requirements;2
+2020-12-27;response;C1_School closing;3
+2020-12-27;response;C4_Restrictions on gatherings;4
+2020-12-27;response;C6_Stay at home requirements;2
+2020-12-28;response;C1_School closing;3
+2020-12-28;response;C4_Restrictions on gatherings;4
+2020-12-28;response;C6_Stay at home requirements;2
+2020-12-29;response;C1_School closing;3
+2020-12-29;response;C4_Restrictions on gatherings;4
+2020-12-29;response;C6_Stay at home requirements;2
+2020-12-30;response;C1_School closing;3
+2020-12-30;response;C4_Restrictions on gatherings;4
+2020-12-30;response;C6_Stay at home requirements;2
+2020-12-31;response;C1_School closing;3
+2020-12-31;response;C4_Restrictions on gatherings;4
+2020-12-31;response;C6_Stay at home requirements;2
+2021-01-01;response;C1_School closing;3
+2021-01-01;response;C4_Restrictions on gatherings;4
+2021-01-01;response;C6_Stay at home requirements;2
+2021-01-02;response;C1_School closing;3
+2021-01-02;response;C4_Restrictions on gatherings;4
+2021-01-02;response;C6_Stay at home requirements;2
+2021-01-03;response;C1_School closing;3
+2021-01-03;response;C4_Restrictions on gatherings;4
+2021-01-03;response;C6_Stay at home requirements;2
+2021-01-04;response;C1_School closing;3
+2021-01-04;response;C4_Restrictions on gatherings;4
+2021-01-04;response;C6_Stay at home requirements;2
+2021-01-05;response;C1_School closing;3
+2021-01-05;response;C4_Restrictions on gatherings;4
+2021-01-05;response;C6_Stay at home requirements;2
+2021-01-06;response;C1_School closing;3
+2021-01-06;response;C4_Restrictions on gatherings;4
+2021-01-06;response;C6_Stay at home requirements;2
+2021-01-07;response;C1_School closing;3
+2021-01-07;response;C4_Restrictions on gatherings;4
+2021-01-07;response;C6_Stay at home requirements;2
+2021-01-08;response;C1_School closing;3
+2021-01-08;response;C4_Restrictions on gatherings;4
+2021-01-08;response;C6_Stay at home requirements;2
+2021-01-09;response;C1_School closing;3
+2021-01-09;response;C4_Restrictions on gatherings;4
+2021-01-09;response;C6_Stay at home requirements;2
+2021-01-10;response;C1_School closing;3
+2021-01-10;response;C4_Restrictions on gatherings;4
+2021-01-10;response;C6_Stay at home requirements;2
+2021-01-11;response;C1_School closing;3
+2021-01-11;response;C4_Restrictions on gatherings;4
+2021-01-11;response;C6_Stay at home requirements;2
+2021-01-12;response;C1_School closing;3
+2021-01-12;response;C4_Restrictions on gatherings;4
+2021-01-12;response;C6_Stay at home requirements;2
+2021-01-13;response;C1_School closing;3
+2021-01-13;response;C4_Restrictions on gatherings;4
+2021-01-13;response;C6_Stay at home requirements;2
+2021-01-14;response;C1_School closing;3
+2021-01-14;response;C4_Restrictions on gatherings;4
+2021-01-14;response;C6_Stay at home requirements;2
+2021-01-15;response;C1_School closing;3
+2021-01-15;response;C4_Restrictions on gatherings;4
+2021-01-15;response;C6_Stay at home requirements;2
+2021-01-16;response;C1_School closing;3
+2021-01-16;response;C4_Restrictions on gatherings;4
+2021-01-16;response;C6_Stay at home requirements;2
+2021-01-17;response;C1_School closing;3
+2021-01-17;response;C4_Restrictions on gatherings;4
+2021-01-17;response;C6_Stay at home requirements;2
+2021-01-18;response;C1_School closing;3
+2021-01-18;response;C4_Restrictions on gatherings;4
+2021-01-18;response;C6_Stay at home requirements;2
+2021-01-19;response;C1_School closing;3
+2021-01-19;response;C4_Restrictions on gatherings;4
+2021-01-19;response;C6_Stay at home requirements;2
+2021-01-20;response;C1_School closing;3
+2021-01-20;response;C4_Restrictions on gatherings;4
+2021-01-20;response;C6_Stay at home requirements;2
+2021-01-21;response;C1_School closing;3
+2021-01-21;response;C4_Restrictions on gatherings;4
+2021-01-21;response;C6_Stay at home requirements;2
+2021-01-22;response;C1_School closing;3
+2021-01-22;response;C4_Restrictions on gatherings;4
+2021-01-22;response;C6_Stay at home requirements;2
+2021-01-23;response;C1_School closing;3
+2021-01-23;response;C4_Restrictions on gatherings;4
+2021-01-23;response;C6_Stay at home requirements;2
+2021-01-24;response;C1_School closing;3
+2021-01-24;response;C4_Restrictions on gatherings;4
+2021-01-24;response;C6_Stay at home requirements;2
+2021-01-25;response;C1_School closing;3
+2021-01-25;response;C4_Restrictions on gatherings;4
+2021-01-25;response;C6_Stay at home requirements;2
+2021-01-26;response;C1_School closing;3
+2021-01-26;response;C4_Restrictions on gatherings;4
+2021-01-26;response;C6_Stay at home requirements;2
+2021-01-27;response;C1_School closing;3
+2021-01-27;response;C4_Restrictions on gatherings;4
+2021-01-27;response;C6_Stay at home requirements;2
+2021-01-28;response;C1_School closing;3
+2021-01-28;response;C4_Restrictions on gatherings;4
+2021-01-28;response;C6_Stay at home requirements;2
+2021-01-29;response;C1_School closing;3
+2021-01-29;response;C4_Restrictions on gatherings;4
+2021-01-29;response;C6_Stay at home requirements;2
+2021-01-30;response;C1_School closing;3
+2021-01-30;response;C4_Restrictions on gatherings;4
+2021-01-30;response;C6_Stay at home requirements;2
+2021-01-31;response;C1_School closing;3
+2021-01-31;response;C4_Restrictions on gatherings;4
+2021-01-31;response;C6_Stay at home requirements;2
+2021-02-01;response;C1_School closing;3
+2021-02-01;response;C4_Restrictions on gatherings;4
+2021-02-01;response;C6_Stay at home requirements;2
+2021-02-02;response;C1_School closing;3
+2021-02-02;response;C4_Restrictions on gatherings;4
+2021-02-02;response;C6_Stay at home requirements;2
+2021-02-03;response;C1_School closing;3
+2021-02-03;response;C4_Restrictions on gatherings;4
+2021-02-03;response;C6_Stay at home requirements;2
+2021-02-04;response;C1_School closing;3
+2021-02-04;response;C4_Restrictions on gatherings;4
+2021-02-04;response;C6_Stay at home requirements;2
+2021-02-05;response;C1_School closing;3
+2021-02-05;response;C4_Restrictions on gatherings;4
+2021-02-05;response;C6_Stay at home requirements;2
+2021-02-06;response;C1_School closing;3
+2021-02-06;response;C4_Restrictions on gatherings;4
+2021-02-06;response;C6_Stay at home requirements;2
+2021-02-07;response;C1_School closing;3
+2021-02-07;response;C4_Restrictions on gatherings;4
+2021-02-07;response;C6_Stay at home requirements;2
+2021-02-08;response;C1_School closing;3
+2021-02-08;response;C4_Restrictions on gatherings;4
+2021-02-08;response;C6_Stay at home requirements;2
+2021-02-09;response;C1_School closing;3
+2021-02-09;response;C4_Restrictions on gatherings;4
+2021-02-09;response;C6_Stay at home requirements;2
+2021-02-10;response;C1_School closing;3
+2021-02-10;response;C4_Restrictions on gatherings;4
+2021-02-10;response;C6_Stay at home requirements;2
+2021-02-11;response;C1_School closing;3
+2021-02-11;response;C4_Restrictions on gatherings;4
+2021-02-11;response;C6_Stay at home requirements;2
+2021-02-12;response;C1_School closing;3
+2021-02-12;response;C4_Restrictions on gatherings;4
+2021-02-12;response;C6_Stay at home requirements;2
+2021-02-13;response;C1_School closing;3
+2021-02-13;response;C4_Restrictions on gatherings;4
+2021-02-13;response;C6_Stay at home requirements;2
+2021-02-14;response;C1_School closing;3
+2021-02-14;response;C4_Restrictions on gatherings;4
+2021-02-14;response;C6_Stay at home requirements;2
+2021-02-15;response;C1_School closing;3
+2021-02-15;response;C4_Restrictions on gatherings;4
+2021-02-15;response;C6_Stay at home requirements;2
+2021-02-16;response;C1_School closing;3
+2021-02-16;response;C4_Restrictions on gatherings;4
+2021-02-16;response;C6_Stay at home requirements;2
+2021-02-17;response;C1_School closing;3
+2021-02-17;response;C4_Restrictions on gatherings;4
+2021-02-17;response;C6_Stay at home requirements;2
+2021-02-18;response;C1_School closing;3
+2021-02-18;response;C4_Restrictions on gatherings;4
+2021-02-18;response;C6_Stay at home requirements;2
+2021-02-19;response;C1_School closing;3
+2021-02-19;response;C4_Restrictions on gatherings;4
+2021-02-19;response;C6_Stay at home requirements;2
+2021-02-20;response;C1_School closing;3
+2021-02-20;response;C4_Restrictions on gatherings;4
+2021-02-20;response;C6_Stay at home requirements;2
+2021-02-21;response;C1_School closing;3
+2021-02-21;response;C4_Restrictions on gatherings;4
+2021-02-21;response;C6_Stay at home requirements;2
+2021-02-22;response;C1_School closing;3
+2021-02-22;response;C4_Restrictions on gatherings;4
+2021-02-22;response;C6_Stay at home requirements;2
+2021-02-23;response;C1_School closing;3
+2021-02-23;response;C4_Restrictions on gatherings;4
+2021-02-23;response;C6_Stay at home requirements;2
+2021-02-24;response;C1_School closing;3
+2021-02-24;response;C4_Restrictions on gatherings;4
+2021-02-24;response;C6_Stay at home requirements;2
+2021-02-25;response;C1_School closing;3
+2021-02-25;response;C4_Restrictions on gatherings;4
+2021-02-25;response;C6_Stay at home requirements;2
+2021-02-26;response;C1_School closing;3
+2021-02-26;response;C4_Restrictions on gatherings;4
+2021-02-26;response;C6_Stay at home requirements;2
+2021-02-27;response;C1_School closing;3
+2021-02-27;response;C4_Restrictions on gatherings;4
+2021-02-27;response;C6_Stay at home requirements;2
+2021-02-28;response;C1_School closing;3
+2021-02-28;response;C4_Restrictions on gatherings;4
+2021-02-28;response;C6_Stay at home requirements;2
+2021-03-01;response;C1_School closing;3
+2021-03-01;response;C4_Restrictions on gatherings;4
+2021-03-01;response;C6_Stay at home requirements;2
+2021-03-02;response;C1_School closing;3
+2021-03-02;response;C4_Restrictions on gatherings;4
+2021-03-02;response;C6_Stay at home requirements;2
+2021-03-03;response;C1_School closing;3
+2021-03-03;response;C4_Restrictions on gatherings;4
+2021-03-03;response;C6_Stay at home requirements;2
+2021-03-04;response;C1_School closing;3
+2021-03-04;response;C4_Restrictions on gatherings;4
+2021-03-04;response;C6_Stay at home requirements;2
+2021-03-05;response;C1_School closing;3
+2021-03-05;response;C4_Restrictions on gatherings;4
+2021-03-05;response;C6_Stay at home requirements;2
+2021-03-06;response;C1_School closing;3
+2021-03-06;response;C4_Restrictions on gatherings;4
+2021-03-06;response;C6_Stay at home requirements;2
+2021-03-07;response;C1_School closing;3
+2021-03-07;response;C4_Restrictions on gatherings;4
+2021-03-07;response;C6_Stay at home requirements;2
+2021-03-08;response;C1_School closing;3
+2021-03-08;response;C4_Restrictions on gatherings;4
+2021-03-08;response;C6_Stay at home requirements;2
+2021-03-09;response;C1_School closing;3
+2021-03-09;response;C4_Restrictions on gatherings;4
+2021-03-09;response;C6_Stay at home requirements;2
+2021-03-10;response;C1_School closing;3
+2021-03-10;response;C4_Restrictions on gatherings;4
+2021-03-10;response;C6_Stay at home requirements;2
+2021-03-11;response;C1_School closing;3
+2021-03-11;response;C4_Restrictions on gatherings;4
+2021-03-11;response;C6_Stay at home requirements;2
+2021-03-12;response;C1_School closing;3
+2021-03-12;response;C4_Restrictions on gatherings;4
+2021-03-12;response;C6_Stay at home requirements;2
+2021-03-13;response;C1_School closing;3
+2021-03-13;response;C4_Restrictions on gatherings;4
+2021-03-13;response;C6_Stay at home requirements;2
+2021-03-14;response;C1_School closing;3
+2021-03-14;response;C4_Restrictions on gatherings;4
+2021-03-14;response;C6_Stay at home requirements;2
+2021-03-15;response;C1_School closing;3
+2021-03-15;response;C4_Restrictions on gatherings;4
+2021-03-15;response;C6_Stay at home requirements;2
+2021-03-16;response;C1_School closing;3
+2021-03-16;response;C4_Restrictions on gatherings;4
+2021-03-16;response;C6_Stay at home requirements;2
+2021-03-17;response;C1_School closing;3
+2021-03-17;response;C4_Restrictions on gatherings;4
+2021-03-17;response;C6_Stay at home requirements;2
+2021-03-18;response;C1_School closing;3
+2021-03-18;response;C4_Restrictions on gatherings;4
+2021-03-18;response;C6_Stay at home requirements;2
+2021-03-19;response;C1_School closing;3
+2021-03-19;response;C4_Restrictions on gatherings;4
+2021-03-19;response;C6_Stay at home requirements;2
+2021-03-20;response;C1_School closing;3
+2021-03-20;response;C4_Restrictions on gatherings;4
+2021-03-20;response;C6_Stay at home requirements;2
+2021-03-21;response;C1_School closing;3
+2021-03-21;response;C4_Restrictions on gatherings;4
+2021-03-21;response;C6_Stay at home requirements;2
+2021-03-22;response;C1_School closing;3
+2021-03-22;response;C4_Restrictions on gatherings;4
+2021-03-22;response;C6_Stay at home requirements;2
+2021-03-23;response;C1_School closing;3
+2021-03-23;response;C4_Restrictions on gatherings;4
+2021-03-23;response;C6_Stay at home requirements;2
+2021-03-24;response;C1_School closing;3
+2021-03-24;response;C4_Restrictions on gatherings;4
+2021-03-24;response;C6_Stay at home requirements;2
+2021-03-25;response;C1_School closing;3
+2021-03-25;response;C4_Restrictions on gatherings;4
+2021-03-25;response;C6_Stay at home requirements;2
+2021-03-26;response;C1_School closing;3
+2021-03-26;response;C4_Restrictions on gatherings;4
+2021-03-26;response;C6_Stay at home requirements;2
+2021-03-27;response;C1_School closing;3
+2021-03-27;response;C4_Restrictions on gatherings;4
+2021-03-27;response;C6_Stay at home requirements;2
+2021-03-28;response;C1_School closing;3
+2021-03-28;response;C4_Restrictions on gatherings;4
+2021-03-28;response;C6_Stay at home requirements;2
+2021-03-29;response;C1_School closing;3
+2021-03-29;response;C4_Restrictions on gatherings;4
+2021-03-29;response;C6_Stay at home requirements;2
+2021-03-30;response;C1_School closing;3
+2021-03-30;response;C4_Restrictions on gatherings;4
+2021-03-30;response;C6_Stay at home requirements;2
+2021-03-31;response;C1_School closing;3
+2021-03-31;response;C4_Restrictions on gatherings;4
+2021-03-31;response;C6_Stay at home requirements;2
+2021-04-01;response;C1_School closing;3
+2021-04-01;response;C4_Restrictions on gatherings;4
+2021-04-01;response;C6_Stay at home requirements;2
+2021-04-02;response;C1_School closing;3
+2021-04-02;response;C4_Restrictions on gatherings;4
+2021-04-02;response;C6_Stay at home requirements;2
+2021-04-03;response;C1_School closing;3
+2021-04-03;response;C4_Restrictions on gatherings;4
+2021-04-03;response;C6_Stay at home requirements;2
+2021-04-04;response;C1_School closing;3
+2021-04-04;response;C4_Restrictions on gatherings;4
+2021-04-04;response;C6_Stay at home requirements;2
+2021-04-05;response;C1_School closing;3
+2021-04-05;response;C4_Restrictions on gatherings;4
+2021-04-05;response;C6_Stay at home requirements;2
+2021-04-06;response;C1_School closing;3
+2021-04-06;response;C4_Restrictions on gatherings;4
+2021-04-06;response;C6_Stay at home requirements;2
+2021-04-07;response;C1_School closing;3
+2021-04-07;response;C4_Restrictions on gatherings;4
+2021-04-07;response;C6_Stay at home requirements;2
+2021-04-08;response;C1_School closing;3
+2021-04-08;response;C4_Restrictions on gatherings;4
+2021-04-08;response;C6_Stay at home requirements;2
+2021-04-09;response;C1_School closing;3
+2021-04-09;response;C4_Restrictions on gatherings;4
+2021-04-09;response;C6_Stay at home requirements;2
+2021-04-10;response;C1_School closing;3
+2021-04-10;response;C4_Restrictions on gatherings;4
+2021-04-10;response;C6_Stay at home requirements;2
+2021-04-11;response;C1_School closing;3
+2021-04-11;response;C4_Restrictions on gatherings;4
+2021-04-11;response;C6_Stay at home requirements;2
+2021-04-12;response;C1_School closing;3
+2021-04-12;response;C4_Restrictions on gatherings;4
+2021-04-12;response;C6_Stay at home requirements;2
+2021-04-13;response;C1_School closing;3
+2021-04-13;response;C4_Restrictions on gatherings;4
+2021-04-13;response;C6_Stay at home requirements;2
+2021-04-14;response;C1_School closing;3
+2021-04-14;response;C4_Restrictions on gatherings;4
+2021-04-14;response;C6_Stay at home requirements;2
+2021-04-15;response;C1_School closing;3
+2021-04-15;response;C4_Restrictions on gatherings;4
+2021-04-15;response;C6_Stay at home requirements;2
+2021-04-16;response;C1_School closing;3
+2021-04-16;response;C4_Restrictions on gatherings;4
+2021-04-16;response;C6_Stay at home requirements;2
+2021-04-17;response;C1_School closing;3
+2021-04-17;response;C4_Restrictions on gatherings;4
+2021-04-17;response;C6_Stay at home requirements;2
+2021-04-18;response;C1_School closing;3
+2021-04-18;response;C4_Restrictions on gatherings;4
+2021-04-18;response;C6_Stay at home requirements;2
+2021-04-19;response;C1_School closing;3
+2021-04-19;response;C4_Restrictions on gatherings;4
+2021-04-19;response;C6_Stay at home requirements;2
+2021-04-20;response;C1_School closing;3
+2021-04-20;response;C4_Restrictions on gatherings;4
+2021-04-20;response;C6_Stay at home requirements;2
+2021-04-21;response;C1_School closing;3
+2021-04-21;response;C4_Restrictions on gatherings;4
+2021-04-21;response;C6_Stay at home requirements;2
+2021-04-22;response;C1_School closing;3
+2021-04-22;response;C4_Restrictions on gatherings;4
+2021-04-22;response;C6_Stay at home requirements;2
+2021-04-23;response;C1_School closing;3
+2021-04-23;response;C4_Restrictions on gatherings;4
+2021-04-23;response;C6_Stay at home requirements;2
+2021-04-24;response;C1_School closing;3
+2021-04-24;response;C4_Restrictions on gatherings;4
+2021-04-24;response;C6_Stay at home requirements;2
+2021-04-25;response;C1_School closing;3
+2021-04-25;response;C4_Restrictions on gatherings;4
+2021-04-25;response;C6_Stay at home requirements;2
+2021-04-26;response;C1_School closing;3
+2021-04-26;response;C4_Restrictions on gatherings;4
+2021-04-26;response;C6_Stay at home requirements;2
+2021-04-27;response;C1_School closing;3
+2021-04-27;response;C4_Restrictions on gatherings;4
+2021-04-27;response;C6_Stay at home requirements;2
+2021-04-28;response;C1_School closing;3
+2021-04-28;response;C4_Restrictions on gatherings;4
+2021-04-28;response;C6_Stay at home requirements;2
+2021-04-29;response;C1_School closing;3
+2021-04-29;response;C4_Restrictions on gatherings;4
+2021-04-29;response;C6_Stay at home requirements;2
+2021-04-30;response;C1_School closing;3
+2021-04-30;response;C4_Restrictions on gatherings;4
+2021-04-30;response;C6_Stay at home requirements;2
+2021-05-01;response;C1_School closing;3
+2021-05-01;response;C4_Restrictions on gatherings;4
+2021-05-01;response;C6_Stay at home requirements;2
+2021-05-02;response;C1_School closing;3
+2021-05-02;response;C4_Restrictions on gatherings;4
+2021-05-02;response;C6_Stay at home requirements;2
+2021-05-03;response;C1_School closing;3
+2021-05-03;response;C4_Restrictions on gatherings;4
+2021-05-03;response;C6_Stay at home requirements;2
+2021-05-04;response;C1_School closing;3
+2021-05-04;response;C4_Restrictions on gatherings;4
+2021-05-04;response;C6_Stay at home requirements;2
+2021-05-05;response;C1_School closing;3
+2021-05-05;response;C4_Restrictions on gatherings;4
+2021-05-05;response;C6_Stay at home requirements;2
+2021-05-06;response;C1_School closing;3
+2021-05-06;response;C4_Restrictions on gatherings;4
+2021-05-06;response;C6_Stay at home requirements;2
+2021-05-07;response;C1_School closing;3
+2021-05-07;response;C4_Restrictions on gatherings;4
+2021-05-07;response;C6_Stay at home requirements;2
+2021-05-08;response;C1_School closing;3
+2021-05-08;response;C4_Restrictions on gatherings;4
+2021-05-08;response;C6_Stay at home requirements;2
+2021-05-09;response;C1_School closing;3
+2021-05-09;response;C4_Restrictions on gatherings;4
+2021-05-09;response;C6_Stay at home requirements;2
+2021-05-10;response;C1_School closing;3
+2021-05-10;response;C4_Restrictions on gatherings;4
+2021-05-10;response;C6_Stay at home requirements;2
+2021-05-11;response;C1_School closing;3
+2021-05-11;response;C4_Restrictions on gatherings;4
+2021-05-11;response;C6_Stay at home requirements;2
+2021-05-12;response;C1_School closing;3
+2021-05-12;response;C4_Restrictions on gatherings;4
+2021-05-12;response;C6_Stay at home requirements;2
+2021-05-13;response;C1_School closing;3
+2021-05-13;response;C4_Restrictions on gatherings;4
+2021-05-13;response;C6_Stay at home requirements;2
+2021-05-14;response;C1_School closing;3
+2021-05-14;response;C4_Restrictions on gatherings;4
+2021-05-14;response;C6_Stay at home requirements;2
+2021-05-15;response;C1_School closing;3
+2021-05-15;response;C4_Restrictions on gatherings;4
+2021-05-15;response;C6_Stay at home requirements;2
+2021-05-16;response;C1_School closing;3
+2021-05-16;response;C4_Restrictions on gatherings;4
+2021-05-16;response;C6_Stay at home requirements;2
+2021-05-17;response;C1_School closing;3
+2021-05-17;response;C4_Restrictions on gatherings;4
+2021-05-17;response;C6_Stay at home requirements;2
+2021-05-18;response;C1_School closing;3
+2021-05-18;response;C4_Restrictions on gatherings;4
+2021-05-18;response;C6_Stay at home requirements;2
+2021-05-19;response;C1_School closing;3
+2021-05-19;response;C4_Restrictions on gatherings;4
+2021-05-19;response;C6_Stay at home requirements;2
+2021-05-20;response;C1_School closing;3
+2021-05-20;response;C4_Restrictions on gatherings;4
+2021-05-20;response;C6_Stay at home requirements;2
+2021-05-21;response;C1_School closing;3
+2021-05-21;response;C4_Restrictions on gatherings;4
+2021-05-21;response;C6_Stay at home requirements;2
+2021-05-22;response;C1_School closing;3
+2021-05-22;response;C4_Restrictions on gatherings;4
+2021-05-22;response;C6_Stay at home requirements;2
+2021-05-23;response;C1_School closing;3
+2021-05-23;response;C4_Restrictions on gatherings;4
+2021-05-23;response;C6_Stay at home requirements;2
+2021-05-24;response;C1_School closing;3
+2021-05-24;response;C4_Restrictions on gatherings;4
+2021-05-24;response;C6_Stay at home requirements;2
+2021-05-25;response;C1_School closing;3
+2021-05-25;response;C4_Restrictions on gatherings;4
+2021-05-25;response;C6_Stay at home requirements;2
+2021-05-26;response;C1_School closing;3
+2021-05-26;response;C4_Restrictions on gatherings;4
+2021-05-26;response;C6_Stay at home requirements;2
+2021-05-27;response;C1_School closing;3
+2021-05-27;response;C4_Restrictions on gatherings;4
+2021-05-27;response;C6_Stay at home requirements;2
+2021-05-28;response;C1_School closing;3
+2021-05-28;response;C4_Restrictions on gatherings;4
+2021-05-28;response;C6_Stay at home requirements;2
+2021-05-29;response;C1_School closing;3
+2021-05-29;response;C4_Restrictions on gatherings;4
+2021-05-29;response;C6_Stay at home requirements;2
+2021-05-30;response;C1_School closing;3
+2021-05-30;response;C4_Restrictions on gatherings;4
+2021-05-30;response;C6_Stay at home requirements;2
+2021-05-31;response;C1_School closing;3
+2021-05-31;response;C4_Restrictions on gatherings;4
+2021-05-31;response;C6_Stay at home requirements;2
