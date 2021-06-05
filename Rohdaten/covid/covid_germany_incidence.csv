@@ -1,0 +1,402 @@
+kreis_id;kreis_name;fallzahl
+01001;Flensburg, Stadt;2262
+01002;Kiel, Landeshauptstadt;5397
+01003;Lübeck, Hansestadt;5697
+01004;Neumünster, Stadt;1819
+01051;Dithmarschen;1973
+01053;Herzogtum Lauenburg;5150
+01054;Nordfriesland;2735
+01055;Ostholstein;3344
+01056;Pinneberg;10432
+01057;Plön;1354
+01058;Rendsburg-Eckernförde;4073
+01059;Schleswig-Flensburg;2875
+01060;Segeberg;6790
+01061;Steinburg;2351
+01062;Stormarn;6991
+02000;Hamburg, Freie und Hansestadt;76379
+03101;Braunschweig, Stadt;6476
+03102;Salzgitter, Stadt;5320
+03103;Wolfsburg, Stadt;3992
+03151;Gifhorn;6056
+03153;Goslar;2603
+03154;Helmstedt;2408
+03155;Northeim;2591
+03157;Peine;5414
+03158;Wolfenbüttel;2880
+03159;Göttingen;8009
+03241;Region Hannover;48070
+03251;Diepholz;6970
+03252;Hameln-Pyrmont;4224
+03254;Hildesheim;8719
+03255;Holzminden;1626
+03256;Nienburg (Weser);3701
+03257;Schaumburg;4804
+03351;Celle;4617
+03352;Cuxhaven;4583
+03353;Harburg;6540
+03354;Lüchow-Dannenberg;888
+03355;Lüneburg;3418
+03356;Osterholz;2714
+03357;Rotenburg (Wümme);3989
+03358;Heidekreis;3377
+03359;Stade;5064
+03360;Uelzen;2178
+03361;Verden;3936
+03401;Delmenhorst, Stadt;3495
+03402;Emden, Stadt;1306
+03403;Oldenburg (Oldenburg), Stadt;4254
+03404;Osnabrück, Stadt;7490
+03405;Wilhelmshaven, Stadt;1928
+03451;Ammerland;3142
+03452;Aurich;3633
+03453;Cloppenburg;10805
+03454;Emsland;12582
+03455;Friesland;1623
+03456;Grafschaft Bentheim;5305
+03457;Leer;4428
+03458;Oldenburg;5030
+03459;Osnabrück;15497
+03460;Vechta;8715
+03461;Wesermarsch;3242
+03462;Wittmund;1232
+04011;Bremen, Stadt;22649
+04012;Bremerhaven, Stadt;4509
+05111;Düsseldorf, Stadt;24909
+05112;Duisburg, Stadt;28592
+05113;Essen, Stadt;25741
+05114;Krefeld, Stadt;11519
+05116;Mönchengladbach, Stadt;10875
+05117;Mülheim an der Ruhr, Stadt;8395
+05119;Oberhausen, Stadt;10904
+05120;Remscheid, Stadt;6227
+05122;Solingen, Klingenstadt;9210
+05124;Wuppertal, Stadt;19889
+05154;Kleve;11265
+05158;Mettmann;24085
+05162;Rhein-Kreis Neuss;17994
+05166;Viersen;11536
+05170;Wesel;17567
+05314;Bonn, Stadt;14334
+05315;Köln, Stadt;52928
+05316;Leverkusen, Stadt;7873
+05334;Städteregion Aachen;26376
+05358;Düren;13569
+05362;Rhein-Erft-Kreis;19927
+05366;Euskirchen;7913
+05370;Heinsberg;11484
+05374;Oberbergischer Kreis;14312
+05378;Rheinisch-Bergischer Kreis;11165
+05382;Rhein-Sieg-Kreis;23053
+05512;Bottrop, Stadt;5335
+05513;Gelsenkirchen, Stadt;15373
+05515;Münster, Stadt;8142
+05554;Borken;13801
+05558;Coesfeld;5554
+05562;Recklinghausen;31416
+05566;Steinfurt;16914
+05570;Warendorf;11617
+05711;Bielefeld, Stadt;15692
+05754;Gütersloh;19838
+05758;Herford;11102
+05762;Höxter;5042
+05766;Lippe;17007
+05770;Minden-Lübbecke;14856
+05774;Paderborn;10316
+05911;Bochum, Stadt;15943
+05913;Dortmund, Stadt;27924
+05914;Hagen, Stadt der FernUniversität;12290
+05915;Hamm, Stadt;10250
+05916;Herne, Stadt;9499
+05954;Ennepe-Ruhr-Kreis;13303
+05958;Hochsauerlandkreis;9655
+05962;Märkischer Kreis;20652
+05966;Olpe;5794
+05970;Siegen-Wittgenstein;11546
+05974;Soest;8578
+05978;Unna;18825
+06411;Darmstadt, Wissenschaftsstadt;5746
+06412;Frankfurt am Main, Stadt;38756
+06413;Offenbach am Main, Stadt;9201
+06414;Wiesbaden, Landeshauptstadt;12863
+06431;Bergstraße;10986
+06432;Darmstadt-Dieburg;10987
+06433;Groß-Gerau;13992
+06434;Hochtaunuskreis;8262
+06435;Main-Kinzig-Kreis;22283
+06436;Main-Taunus-Kreis;8913
+06437;Odenwaldkreis;4401
+06438;Offenbach;18218
+06439;Rheingau-Taunus-Kreis;7187
+06440;Wetteraukreis;13063
+06531;Gießen;13752
+06532;Lahn-Dill-Kreis;12298
+06533;Limburg-Weilburg;9164
+06534;Marburg-Biedenkopf;10977
+06535;Vogelsbergkreis;4041
+06611;Kassel, documenta-Stadt;8385
+06631;Fulda;13253
+06632;Hersfeld-Rotenburg;6064
+06633;Kassel;8158
+06634;Schwalm-Eder-Kreis;6659
+06635;Waldeck-Frankenberg;6283
+06636;Werra-Meißner-Kreis;3649
+07111;Koblenz, kreisfreie Stadt;4457
+07131;Ahrweiler;4430
+07132;Altenkirchen (Westerwald);4868
+07133;Bad Kreuznach;5939
+07134;Birkenfeld;3355
+07135;Cochem-Zell;1948
+07137;Mayen-Koblenz;7221
+07138;Neuwied;8109
+07140;Rhein-Hunsrück-Kreis;3707
+07141;Rhein-Lahn-Kreis;3983
+07143;Westerwaldkreis;7275
+07211;Trier, kreisfreie Stadt;2721
+07231;Bernkastel-Wittlich;3010
+07232;Eifelkreis Bitburg-Prüm;3342
+07233;Vulkaneifel;2039
+07235;Trier-Saarburg;4410
+07311;Frankenthal (Pfalz), kreisfreie Stadt;2119
+07312;Kaiserslautern, kreisfreie Stadt;3641
+07313;Landau in der Pfalz, kreisfreie Stadt;1651
+07314;Ludwigshafen am Rhein, kreisfreie Stadt;10428
+07315;Mainz, kreisfreie Stadt;9974
+07316;Neustadt an der Weinstraße, kreisfreie Stadt;1679
+07317;Pirmasens, kreisfreie Stadt;1392
+07318;Speyer, kreisfreie Stadt;2811
+07319;Worms, kreisfreie Stadt;4187
+07320;Zweibrücken, kreisfreie Stadt;801
+07331;Alzey-Worms;4993
+07332;Bad Dürkheim;4404
+07333;Donnersbergkreis;2546
+07334;Germersheim;5496
+07335;Kaiserslautern;3870
+07336;Kusel;2204
+07337;Südliche Weinstraße;3671
+07338;Rhein-Pfalz-Kreis;6602
+07339;Mainz-Bingen;7363
+07340;Südwestpfalz;2644
+08111;Stuttgart, Stadtkreis;29217
+08115;Böblingen;16781
+08116;Esslingen;25979
+08117;Göppingen;12507
+08118;Ludwigsburg;26499
+08119;Rems-Murr-Kreis;19934
+08121;Heilbronn, Stadtkreis;8598
+08125;Heilbronn;15948
+08126;Hohenlohekreis;5637
+08127;Schwäbisch Hall;11366
+08128;Main-Tauber-Kreis;5058
+08135;Heidenheim;6002
+08136;Ostalbkreis;15383
+08211;Baden-Baden, Stadtkreis;2093
+08212;Karlsruhe, Stadtkreis;10672
+08215;Karlsruhe;18345
+08216;Rastatt;9914
+08221;Heidelberg, Stadtkreis;5075
+08222;Mannheim, Stadtkreis;16214
+08225;Neckar-Odenwald-Kreis;6292
+08226;Rhein-Neckar-Kreis;22324
+08231;Pforzheim, Stadtkreis;7571
+08235;Calw;8163
+08236;Enzkreis;9560
+08237;Freudenstadt;5299
+08311;Freiburg im Breisgau, Stadtkreis;7427
+08315;Breisgau-Hochschwarzwald;8462
+08316;Emmendingen;6137
+08317;Ortenaukreis;18911
+08325;Rottweil;7617
+08326;Schwarzwald-Baar-Kreis;9801
+08327;Tuttlingen;7518
+08335;Konstanz;11382
+08336;Lörrach;9830
+08337;Waldshut;7395
+08415;Reutlingen;13530
+08416;Tübingen;9286
+08417;Zollernalbkreis;9174
+08421;Ulm, Stadtkreis;5800
+08425;Alb-Donau-Kreis;8712
+08426;Biberach;8647
+08435;Bodenseekreis;7658
+08436;Ravensburg;10858
+08437;Sigmaringen;5518
+09161;Ingolstadt;6083
+09162;München, Landeshauptstadt;72694
+09163;Rosenheim;3907
+09171;Altötting;6031
+09172;Berchtesgadener Land;5933
+09173;Bad Tölz-Wolfratshausen;5027
+09174;Dachau;8195
+09175;Ebersberg;6296
+09176;Eichstätt;5016
+09177;Erding;6895
+09178;Freising;8066
+09179;Fürstenfeldbruck;9649
+09180;Garmisch-Partenkirchen;3585
+09181;Landsberg am Lech;4070
+09182;Miesbach;4518
+09183;Mühldorf a.Inn;6933
+09184;München;15141
+09185;Neuburg-Schrobenhausen;4122
+09186;Pfaffenhofen a.d.Ilm;5613
+09187;Rosenheim;13784
+09188;Starnberg;5064
+09189;Traunstein;10955
+09190;Weilheim-Schongau;5079
+09261;Landshut;4050
+09262;Passau;3385
+09263;Straubing;2374
+09271;Deggendorf;6941
+09272;Freyung-Grafenau;4895
+09273;Kelheim;5907
+09274;Landshut;7976
+09275;Passau;12899
+09276;Regen;5514
+09277;Rottal-Inn;7506
+09278;Straubing-Bogen;5354
+09279;Dingolfing-Landau;5744
+09361;Amberg;1729
+09362;Regensburg;6923
+09363;Weiden i.d.OPf.;2691
+09371;Amberg-Sulzbach;4818
+09372;Cham;7103
+09373;Neumarkt i.d.OPf.;6516
+09374;Neustadt a.d.Waldnaab;5223
+09375;Regensburg;8187
+09376;Schwandorf;8347
+09377;Tirschenreuth;5317
+09461;Bamberg;3050
+09462;Bayreuth;3465
+09463;Coburg;2383
+09464;Hof;3938
+09471;Bamberg;5525
+09472;Bayreuth;4924
+09473;Coburg;4841
+09474;Forchheim;4723
+09475;Hof;6361
+09476;Kronach;4165
+09477;Kulmbach;4069
+09478;Lichtenfels;3516
+09479;Wunsiedel i.Fichtelgebirge;5013
+09561;Ansbach;1809
+09562;Erlangen;3949
+09563;Fürth;7638
+09564;Nürnberg;34152
+09565;Schwabach;2134
+09571;Ansbach;8249
+09572;Erlangen-Höchstadt;5362
+09573;Fürth;5310
+09574;Nürnberger Land;7367
+09575;Neustadt a.d.Aisch-Bad Windsheim;4361
+09576;Roth;5659
+09577;Weißenburg-Gunzenhausen;3900
+09661;Aschaffenburg;3440
+09662;Schweinfurt;3069
+09663;Würzburg;4460
+09671;Aschaffenburg;7949
+09672;Bad Kissingen;3619
+09673;Rhön-Grabfeld;3519
+09674;Haßberge;4034
+09675;Kitzingen;3226
+09676;Miltenberg;5918
+09677;Main-Spessart;4705
+09678;Schweinfurt;5090
+09679;Würzburg;4352
+09761;Augsburg;17708
+09762;Kaufbeuren;2366
+09763;Kempten (Allgäu);3248
+09764;Memmingen;2229
+09771;Aichach-Friedberg;5165
+09772;Augsburg;11325
+09773;Dillingen a.d.Donau;3726
+09774;Günzburg;6816
+09775;Neu-Ulm;7553
+09776;Lindau (Bodensee);3331
+09777;Ostallgäu;7109
+09778;Unterallgäu;7177
+09779;Donau-Ries;5868
+09780;Oberallgäu;5875
+10041;Regionalverband Saarbrücken;15584
+10042;Merzig-Wadern;3448
+10043;Neunkirchen;5388
+10044;Saarlouis;8455
+10045;Saarpfalz-Kreis;4806
+10046;St. Wendel;3251
+11000;Berlin, Stadt;178661
+12051;Brandenburg an der Havel, Stadt;2326
+12052;Cottbus, Stadt;5906
+12053;Frankfurt (Oder), Stadt;2239
+12054;Potsdam, Stadt;7073
+12060;Barnim;6072
+12061;Dahme-Spreewald;7044
+12062;Elbe-Elster;7103
+12063;Havelland;6242
+12064;Märkisch-Oderland;6932
+12065;Oberhavel;8340
+12066;Oberspreewald-Lausitz;7373
+12067;Oder-Spree;8185
+12068;Ostprignitz-Ruppin;4131
+12069;Potsdam-Mittelmark;7854
+12070;Prignitz;3229
+12071;Spree-Neiße;7626
+12072;Teltow-Fläming;6830
+12073;Uckermark;3908
+13003;Rostock;3120
+13004;Schwerin;2690
+13071;Mecklenburgische Seenplatte;8698
+13072;Landkreis Rostock;4491
+13073;Vorpommern-Rügen;3870
+13074;Nordwestmecklenburg;3850
+13075;Vorpommern-Greifswald;9984
+13076;Ludwigslust-Parchim;7228
+14511;Chemnitz, Stadt;16965
+14521;Erzgebirgskreis;31739
+14522;Mittelsachsen;24124
+14523;Vogtlandkreis;18801
+14524;Zwickau;26672
+14612;Dresden, Stadt;30448
+14625;Bautzen;27213
+14626;Görlitz;20369
+14627;Meißen;17203
+14628;Sächsische Schweiz-Osterzgebirge;20458
+14713;Leipzig, Stadt;22233
+14729;Leipzig;14662
+14730;Nordsachsen;13460
+15001;Dessau-Roßlau, Stadt;3283
+15002;Halle (Saale), Stadt;11632
+15003;Magdeburg, Landeshauptstadt;6683
+15081;Altmarkkreis Salzwedel;2436
+15082;Anhalt-Bitterfeld;6741
+15083;Börde;6040
+15084;Burgenlandkreis;13041
+15085;Harz;8737
+15086;Jerichower Land;3372
+15087;Mansfeld-Südharz;6380
+15088;Saalekreis;10048
+15089;Salzlandkreis;8857
+15090;Stendal;4740
+15091;Wittenberg;6647
+16051;Erfurt, Stadt;8557
+16052;Gera, Stadt;5667
+16053;Jena, Stadt;4280
+16054;Suhl, Stadt;2167
+16055;Weimar, Stadt;2602
+16056;Eisenach, Stadt;1934
+16061;Eichsfeld;6205
+16062;Nordhausen;2924
+16063;Wartburgkreis;8241
+16064;Unstrut-Hainich-Kreis;6297
+16065;Kyffhäuserkreis;3632
+16066;Schmalkalden-Meiningen;9963
+16067;Gotha;8564
+16068;Sömmerda;4141
+16069;Hildburghausen;5317
+16070;Ilm-Kreis;6476
+16071;Weimarer Land;4107
+16072;Sonneberg;4189
+16073;Saalfeld-Rudolstadt;6746
+16074;Saale-Holzland-Kreis;4710
+16075;Saale-Orla-Kreis;6407
+16076;Greiz;7835
+16077;Altenburger Land;6833
