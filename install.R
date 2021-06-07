@@ -1,4 +1,3 @@
-install.packages("tidyverse")
 install.packages('leaflet')
 install.packages("ggmap")
 install.packages("RSQLite")
