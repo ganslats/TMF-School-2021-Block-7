@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages('leaflet')
+install.packages("ggmap")
+install.packages("RSQLite")
+install.packages("icd.data")
+install.packages("zoo")
+install.packages("tidygeocoder")
+install.packages("sf")
