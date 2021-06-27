@@ -1,0 +1,16 @@
+group_id;group_name;itemid;label;loinc_code_generic;loinc_name_generic;loinc_code_specific;loinc_name_specific
+BP;Blood pressure;220179;Non Invasive Blood Pressure systolic;8480-6;Systolic blood pressure;76534-7;Systolic blood pressure by Noninvasive
+BP;Blood pressure;220180;Non Invasive Blood Pressure diastolic;8462-4;Diastolic blood pressure;76535-4;Diastolic blood pressure by Noninvasive
+BP;Blood pressure;51;Arterial BP [Systolic];8480-6;Systolic blood pressure;76215-3;Invasive Systolic blood pressure
+BP;Blood pressure;8368;Arterial BP [Diastolic];8462-4;Diastolic blood pressure;76213-8;Invasive Diastolic blood pressure
+BP;Blood pressure;455;NBP [Systolic];8480-6;Systolic blood pressure;76534-7;Systolic blood pressure by Noninvasive
+BP;Blood pressure;8441;NBP [Diastolic];8462-4;Diastolic blood pressure;76535-4;Diastolic blood pressure by Noninvasive
+BP;Blood pressure;220050;Arterial Blood Pressure systolic;8480-6;Systolic blood pressure;76215-3;Invasive Systolic blood pressure
+BP;Blood pressure;220051;Arterial Blood Pressure diastolic;8462-4;Diastolic blood pressure;76213-8;Invasive Diastolic blood pressure
+BP;Blood pressure;225309;ART BP Systolic;8480-6;Systolic blood pressure;76215-3;Invasive Systolic blood pressure
+BP;Blood pressure;225310;ART BP Diastolic;8462-4;Diastolic blood pressure;76213-8;Invasive Diastolic blood pressure
+HR;Heart rate;211;Heart Rate;8867-4;Heart rate;8867-4;Heart rate
+HR;Heart rate;220045;Heart Rate;8867-4;Heart rate;8867-4;Heart rate
+HR;Heart rate;220045;HR;8867-4;Heart rate;8867-4;Heart rate
+Temp;Temperature;677;Temperature C (calc);8310-5;Body temperature;8310-5;Body temperature
+Temp;Temperature;676;Temperature C;8310-5;Body temperature;8310-5;Body temperature
