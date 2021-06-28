@@ -1,2 +1,2 @@
-packages <- c("leaflet", "ggmap", "readr", "tidyr", "ggplot2", "dplyr", "DBI", "RSQLite", "stringr", "icd.data", "lubridate", "zoo", "forcats", "grid", "gridExtra", "gtable", "readr", "dplyr", "tidyr", "leaflet", "tidygeocoder", "sf", "ggmap")
+packages <- c("DBI", "RSQLite", "dplyr", "dplyr", "forcats", "ggmap", "ggmap", "ggplot2", "grid", "gridExtra", "gtable", "icd.data", "leaflet", "leaflet", "lubridate", "readr", "readr", "sf", "stringr", "tidygeocoder", "tidyr", "tidyr", "zoo")
 install.packages(setdiff(packages, rownames(installed.packages())))
